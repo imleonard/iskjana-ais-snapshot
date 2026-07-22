@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ischia_porto",
+    "displayName": "Ischia Porto",
+    "latitude": 40.7460,
+    "longitude": 13.9520,
+    "radiusMeters": 1200
+  },
+  {
+    "id": "casamicciola",
+    "displayName": "Casamicciola",
+    "latitude": 40.7510,
+    "longitude": 13.9100,
+    "radiusMeters": 1200
+  },
+  {
+    "id": "forio",
+    "displayName": "Forio",
+    "latitude": 40.7350,
+    "longitude": 13.8500,
+    "radiusMeters": 1200
+  },
+  {
+    "id": "pozzuoli",
+    "displayName": "Pozzuoli",
+    "latitude": 40.8237113,
+    "longitude": 14.1179349,
+    "radiusMeters": 1200
+  },
+  {
+    "id": "napoli_molo_beverello",
+    "displayName": "Napoli Molo Beverello",
+    "latitude": 40.8384191,
+    "longitude": 14.2551589,
+    "radiusMeters": 1200
+  },
+  {
+    "id": "procida",
+    "displayName": "Procida",
+    "latitude": 40.7655027,
+    "longitude": 14.0258912,
+    "radiusMeters": 1200
+  }
+]

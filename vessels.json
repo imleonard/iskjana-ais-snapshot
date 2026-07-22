@@ -1,0 +1,16 @@
+[
+  {"id": "benito-buono", "name": "BENITO BUONO", "mmsi": "247007400", "operatorId": "medmar"},
+  {"id": "maria-buono", "name": "MARIA BUONO", "mmsi": "247213200", "operatorId": "medmar"},
+  {"id": "medmar-giulia", "name": "MEDMAR GIULIA", "mmsi": "247375500", "operatorId": "medmar"},
+  {"id": "snav-alcione", "name": "SNAV ALCIONE", "mmsi": "247058700", "operatorId": "snav"},
+  {"id": "snav-altair", "name": "SNAV ALTAIR", "mmsi": "247058800", "operatorId": "snav"},
+  {"id": "angelina-lauro-jet", "name": "ANGELINA LAURO JET", "mmsi": "247270100", "operatorId": "alilauro"},
+  {"id": "nettuno-jet", "name": "NETTUNO JET", "mmsi": "247047400", "operatorId": "alilauro"},
+  {"id": "giunone-jet", "name": "GIUNONE JET", "mmsi": "247055800", "operatorId": "alilauro"},
+  {"id": "celestina", "name": "CELESTINA", "mmsi": "247061200", "operatorId": "alilauro"},
+  {"id": "citta-di-forio", "name": "CITTA DI FORIO", "mmsi": "247070900", "operatorId": "alilauro"},
+  {"id": "ischiamar", "name": "ISCHIAMAR", "mmsi": "247158900", "operatorId": "alilauro"},
+  {"id": "rosaria-lauro", "name": "ROSARIA LAURO", "mmsi": "247055900", "operatorId": "alilauro"},
+  {"id": "acapulco-jet", "name": "ACAPULCO JET", "mmsi": "247050100", "operatorId": "alilauro"},
+  {"id": "columbia-lbl", "name": "COLUMBIA", "mmsi": "247161800", "operatorId": "alilauro_operata_da_laser_capri"}
+]
