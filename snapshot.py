@@ -101,10 +101,18 @@ async def collect_positions(api_key: str, mmsi_list: list[str]) -> dict[str, dic
                 try:
                     message = json.loads(raw)
                 except (ValueError, TypeError):
+                    print(f"Non-JSON message received: {raw!r}", file=sys.stderr)
                     continue
                 position = _extract_position(message)
                 if position is not None:
                     observed[position["mmsi"]] = position
+                elif message.get("MessageType") != "PositionReport":
+                    # Surface anything unexpected (error frames, unrelated
+                    # AIS message types, auth rejections) instead of
+                    # silently discarding it -- this is what the server
+                    # sends right before an abrupt disconnect if the
+                    # subscription itself was rejected.
+                    print(f"Unhandled message: {json.dumps(message)[:500]}", file=sys.stderr)
     except (OSError, websockets.exceptions.WebSocketException) as error:
         print(f"AISStream connection failed: {error}", file=sys.stderr)
     return observed
