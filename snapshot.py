@@ -33,7 +33,10 @@ PORTS_PATH = HERE / "ports.json"
 OUTPUT_PATH = HERE / "latest_positions.json"
 
 AISSTREAM_URL = "wss://stream.aisstream.io/v0/stream"
-SNAPSHOT_SECONDS = int(os.environ.get("SNAPSHOT_SECONDS", "90"))
+# Kept short: MAX_ATTEMPTS retries each get a full SNAPSHOT_SECONDS listening
+# window on success, so the worst case (every attempt connects but observes
+# nothing) must still fit inside the workflow's job timeout.
+SNAPSHOT_SECONDS = int(os.environ.get("SNAPSHOT_SECONDS", "60"))
 
 # A single bounding box covering the Gulf of Naples, Ischia, Procida and
 # Capri -- AISStream requires at least one box in the subscription even
@@ -80,7 +83,11 @@ def _extract_position(message: dict) -> dict | None:
     }
 
 
-async def collect_positions(api_key: str, mmsi_list: list[str]) -> dict[str, dict]:
+MAX_ATTEMPTS = 2
+RETRY_BACKOFF_SECONDS = [5]
+
+
+async def _collect_once(api_key: str, mmsi_list: list[str]) -> dict[str, dict]:
     subscription = {
         "APIKey": api_key,
         "BoundingBoxes": BOUNDING_BOX,
@@ -88,34 +95,45 @@ async def collect_positions(api_key: str, mmsi_list: list[str]) -> dict[str, dic
         "FiltersShipMMSI": mmsi_list,
     }
     observed: dict[str, dict] = {}
-    try:
-        async with websockets.connect(AISSTREAM_URL, open_timeout=15) as socket:
-            await socket.send(json.dumps(subscription))
-            deadline = asyncio.get_event_loop().time() + SNAPSHOT_SECONDS
-            while asyncio.get_event_loop().time() < deadline:
-                remaining = deadline - asyncio.get_event_loop().time()
-                try:
-                    raw = await asyncio.wait_for(socket.recv(), timeout=max(remaining, 0.1))
-                except asyncio.TimeoutError:
-                    break
-                try:
-                    message = json.loads(raw)
-                except (ValueError, TypeError):
-                    print(f"Non-JSON message received: {raw!r}", file=sys.stderr)
-                    continue
-                position = _extract_position(message)
-                if position is not None:
-                    observed[position["mmsi"]] = position
-                elif message.get("MessageType") != "PositionReport":
-                    # Surface anything unexpected (error frames, unrelated
-                    # AIS message types, auth rejections) instead of
-                    # silently discarding it -- this is what the server
-                    # sends right before an abrupt disconnect if the
-                    # subscription itself was rejected.
-                    print(f"Unhandled message: {json.dumps(message)[:500]}", file=sys.stderr)
-    except (OSError, websockets.exceptions.WebSocketException) as error:
-        print(f"AISStream connection failed: {error}", file=sys.stderr)
+    async with websockets.connect(AISSTREAM_URL, open_timeout=20) as socket:
+        await socket.send(json.dumps(subscription))
+        deadline = asyncio.get_event_loop().time() + SNAPSHOT_SECONDS
+        while asyncio.get_event_loop().time() < deadline:
+            remaining = deadline - asyncio.get_event_loop().time()
+            try:
+                raw = await asyncio.wait_for(socket.recv(), timeout=max(remaining, 0.1))
+            except asyncio.TimeoutError:
+                break
+            try:
+                message = json.loads(raw)
+            except (ValueError, TypeError):
+                print(f"Non-JSON message received: {raw!r}", file=sys.stderr)
+                continue
+            position = _extract_position(message)
+            if position is not None:
+                observed[position["mmsi"]] = position
+            elif message.get("MessageType") != "PositionReport":
+                # Surface anything unexpected (error frames, unrelated
+                # AIS message types, auth rejections) instead of silently
+                # discarding it -- this is what the server sends right
+                # before an abrupt disconnect if the subscription itself
+                # was rejected.
+                print(f"Unhandled message: {json.dumps(message)[:500]}", file=sys.stderr)
     return observed
+
+
+async def collect_positions(api_key: str, mmsi_list: list[str]) -> dict[str, dict]:
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        try:
+            observed = await _collect_once(api_key, mmsi_list)
+            if observed:
+                return observed
+            print(f"Attempt {attempt}/{MAX_ATTEMPTS}: connected but observed 0 vessels", file=sys.stderr)
+        except (OSError, websockets.exceptions.WebSocketException) as error:
+            print(f"Attempt {attempt}/{MAX_ATTEMPTS}: AISStream connection failed: {error}", file=sys.stderr)
+        if attempt < MAX_ATTEMPTS:
+            await asyncio.sleep(RETRY_BACKOFF_SECONDS[attempt - 1])
+    return {}
 
 
 def merge_snapshot(vessels: list[dict], ports: list[dict], observed: dict[str, dict]) -> dict:
