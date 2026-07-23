@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T11:19:40.179797+00:00",
+  "generatedAt": "2026-07-23T12:54:24.520536+00:00",
   "vessels": [
     {
       "mmsi": "247213200",
@@ -29,24 +29,36 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.83784,
-      "longitude": 14.25529,
-      "speedKnots": 0,
-      "observedAt": "2026-07-23T09:05:03.648309+00:00",
+      "latitude": 40.82068,
+      "longitude": 14.28373,
+      "speedKnots": 27.2,
+      "observedAt": "2026-07-23T12:54:24.520536+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 65,
-      "atPort": true
+      "distanceMeters": 3110,
+      "atPort": false
+    },
+    {
+      "mmsi": "247270100",
+      "name": "ANGELINA LAURO JET",
+      "operatorId": "alilauro",
+      "latitude": 40.84295,
+      "longitude": 14.27013,
+      "speedKnots": 0,
+      "observedAt": "2026-07-23T12:54:24.520536+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 1356,
+      "atPort": false
     },
     {
       "mmsi": "247047400",
       "name": "NETTUNO JET",
       "operatorId": "alilauro",
       "latitude": 40.84292,
-      "longitude": 14.27022,
+      "longitude": 14.27021,
       "speedKnots": 0,
-      "observedAt": "2026-07-23T11:19:40.179797+00:00",
+      "observedAt": "2026-07-23T12:54:24.520536+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 1362,
+      "distanceMeters": 1361,
       "atPort": false
     },
     {
@@ -65,12 +77,12 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.84214,
-      "longitude": 14.26995,
+      "latitude": 40.84295,
+      "longitude": 14.27033,
       "speedKnots": 0,
-      "observedAt": "2026-07-23T09:05:03.648309+00:00",
+      "observedAt": "2026-07-23T12:54:24.520536+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 1311,
+      "distanceMeters": 1372,
       "atPort": false
     },
     {
