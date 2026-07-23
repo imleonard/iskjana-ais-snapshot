@@ -1,4 +1,77 @@
 {
-  "generatedAt": "2026-07-23T06:19:49.636368+00:00",
-  "vessels": []
+  "generatedAt": "2026-07-23T09:05:03.648309+00:00",
+  "vessels": [
+    {
+      "mmsi": "247213200",
+      "name": "MARIA BUONO",
+      "operatorId": "medmar",
+      "latitude": 40.80907,
+      "longitude": 14.10387,
+      "speedKnots": 13,
+      "observedAt": "2026-07-23T09:05:03.648309+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 2013,
+      "atPort": false
+    },
+    {
+      "mmsi": "247375500",
+      "name": "MEDMAR GIULIA",
+      "operatorId": "medmar",
+      "latitude": 40.74239,
+      "longitude": 14.04787,
+      "speedKnots": 13.9,
+      "observedAt": "2026-07-23T09:05:03.648309+00:00",
+      "portId": "procida",
+      "distanceMeters": 3167,
+      "atPort": false
+    },
+    {
+      "mmsi": "247058700",
+      "name": "SNAV ALCIONE",
+      "operatorId": "snav",
+      "latitude": 40.83784,
+      "longitude": 14.25529,
+      "speedKnots": 0,
+      "observedAt": "2026-07-23T09:05:03.648309+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 65,
+      "atPort": true
+    },
+    {
+      "mmsi": "247061200",
+      "name": "CELESTINA",
+      "operatorId": "alilauro",
+      "latitude": 40.83581,
+      "longitude": 14.26537,
+      "speedKnots": 8.7,
+      "observedAt": "2026-07-23T09:05:03.648309+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 907,
+      "atPort": true
+    },
+    {
+      "mmsi": "247055900",
+      "name": "ROSARIA LAURO",
+      "operatorId": "alilauro",
+      "latitude": 40.84214,
+      "longitude": 14.26995,
+      "speedKnots": 0,
+      "observedAt": "2026-07-23T09:05:03.648309+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 1311,
+      "atPort": false
+    },
+    {
+      "mmsi": "247050100",
+      "name": "ACAPULCO JET",
+      "operatorId": "alilauro",
+      "latitude": 40.76445,
+      "longitude": 13.98285,
+      "speedKnots": 31.7,
+      "observedAt": "2026-07-23T09:05:03.648309+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 3311,
+      "atPort": false
+    }
+  ]
 }
