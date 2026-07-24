@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T15:04:37.785088+00:00",
+  "generatedAt": "2026-07-24T16:55:30.474531+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -89,12 +89,12 @@
       "mmsi": "247055800",
       "name": "GIUNONE JET",
       "operatorId": "alilauro",
-      "latitude": 40.63841,
-      "longitude": 14.35272,
-      "speedKnots": 26.4,
-      "observedAt": "2026-07-24T07:17:00.102001+00:00",
+      "latitude": 40.65245,
+      "longitude": 14.3453,
+      "speedKnots": 26.3,
+      "observedAt": "2026-07-24T16:55:30.474531+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 23710,
+      "distanceMeters": 22029,
       "atPort": false
     },
     {
