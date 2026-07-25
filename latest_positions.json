@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T17:39:34.147864+00:00",
+  "generatedAt": "2026-07-25T18:41:52.632456+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -101,12 +101,12 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.78236,
-      "longitude": 14.1976,
-      "speedKnots": 27.3,
-      "observedAt": "2026-07-25T17:39:34.147864+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 7894,
+      "latitude": 40.78159,
+      "longitude": 14.17497,
+      "speedKnots": 27.2,
+      "observedAt": "2026-07-25T18:41:52.632456+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 6707,
       "atPort": false
     },
     {
