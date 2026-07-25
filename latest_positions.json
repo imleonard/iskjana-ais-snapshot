@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T04:24:42.481181+00:00",
+  "generatedAt": "2026-07-25T06:38:48.763748+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -101,13 +101,13 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.74339,
-      "longitude": 13.94035,
-      "speedKnots": 0,
-      "observedAt": "2026-07-25T04:24:42.481181+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 1023,
-      "atPort": true
+      "latitude": 40.75932,
+      "longitude": 13.92667,
+      "speedKnots": 28.4,
+      "observedAt": "2026-07-25T06:38:48.763748+00:00",
+      "portId": "casamicciola",
+      "distanceMeters": 1682,
+      "atPort": false
     },
     {
       "mmsi": "247055900",
