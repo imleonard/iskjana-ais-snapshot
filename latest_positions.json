@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T11:41:09.506186+00:00",
+  "generatedAt": "2026-07-25T12:46:25.992033+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -41,12 +41,12 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.75063,
-      "longitude": 13.90707,
+      "latitude": 40.75064,
+      "longitude": 13.90708,
       "speedKnots": 0,
-      "observedAt": "2026-07-25T11:41:09.506186+00:00",
+      "observedAt": "2026-07-25T12:46:25.992033+00:00",
       "portId": "casamicciola",
-      "distanceMeters": 250,
+      "distanceMeters": 249,
       "atPort": true
     },
     {
@@ -77,13 +77,13 @@
       "mmsi": "247047400",
       "name": "NETTUNO JET",
       "operatorId": "alilauro",
-      "latitude": 40.7447,
-      "longitude": 13.93948,
-      "speedKnots": 5,
-      "observedAt": "2026-07-24T13:01:36.598286+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 1065,
-      "atPort": true
+      "latitude": 40.76348,
+      "longitude": 14.10795,
+      "speedKnots": 27.2,
+      "observedAt": "2026-07-25T12:46:25.992033+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 6750,
+      "atPort": false
     },
     {
       "mmsi": "247055800",
