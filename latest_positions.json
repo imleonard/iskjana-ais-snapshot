@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T01:23:09.104100+00:00",
+  "generatedAt": "2026-07-27T05:05:24.079158+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -17,12 +17,12 @@
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.77355,
-      "longitude": 14.00293,
-      "speedKnots": 13.1,
-      "observedAt": "2026-07-26T20:39:09.796336+00:00",
-      "portId": "procida",
-      "distanceMeters": 2131,
+      "latitude": 40.76877,
+      "longitude": 13.94443,
+      "speedKnots": 13.4,
+      "observedAt": "2026-07-27T05:05:24.079158+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 2611,
       "atPort": false
     },
     {
@@ -41,12 +41,12 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.75057,
-      "longitude": 13.90711,
-      "speedKnots": 1.5,
-      "observedAt": "2026-07-26T18:14:55.921585+00:00",
+      "latitude": 40.75061,
+      "longitude": 13.90704,
+      "speedKnots": 0,
+      "observedAt": "2026-07-27T05:05:24.079158+00:00",
       "portId": "casamicciola",
-      "distanceMeters": 248,
+      "distanceMeters": 253,
       "atPort": true
     },
     {
@@ -90,11 +90,11 @@
       "name": "GIUNONE JET",
       "operatorId": "alilauro",
       "latitude": 40.62988,
-      "longitude": 14.37458,
-      "speedKnots": 0,
-      "observedAt": "2026-07-26T10:52:20.307962+00:00",
+      "longitude": 14.37427,
+      "speedKnots": 0.6,
+      "observedAt": "2026-07-27T05:05:24.079158+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 25277,
+      "distanceMeters": 25267,
       "atPort": false
     },
     {
