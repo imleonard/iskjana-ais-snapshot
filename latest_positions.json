@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T16:51:00.509769+00:00",
+  "generatedAt": "2026-07-31T18:15:18.733220+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -137,13 +137,13 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.75672,
-      "longitude": 13.96147,
-      "speedKnots": 26.5,
-      "observedAt": "2026-07-29T16:12:00.612822+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 1434,
-      "atPort": false
+      "latitude": 40.83732,
+      "longitude": 14.25505,
+      "speedKnots": 0,
+      "observedAt": "2026-07-31T18:15:18.733220+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 123,
+      "atPort": true
     },
     {
       "mmsi": "247050100",
