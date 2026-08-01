@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T15:58:41.322937+00:00",
+  "generatedAt": "2026-08-01T17:12:02.817250+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -161,12 +161,12 @@
       "mmsi": "247161800",
       "name": "COLUMBIA",
       "operatorId": "alilauro_operata_da_laser_capri",
-      "latitude": 40.74521,
-      "longitude": 13.94081,
-      "speedKnots": 6.9,
-      "observedAt": "2026-08-01T15:58:41.322937+00:00",
+      "latitude": 40.75018,
+      "longitude": 13.94192,
+      "speedKnots": 13.2,
+      "observedAt": "2026-08-01T17:12:02.817250+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 947,
+      "distanceMeters": 968,
       "atPort": true
     }
   ]
