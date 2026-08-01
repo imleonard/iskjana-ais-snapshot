@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T21:32:18.374163+00:00",
+  "generatedAt": "2026-08-01T22:33:53.351125+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,12 +29,12 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.8424,
-      "longitude": 14.26138,
+      "latitude": 40.75092,
+      "longitude": 13.90802,
       "speedKnots": 0,
-      "observedAt": "2026-07-31T16:51:00.509769+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 685,
+      "observedAt": "2026-08-01T22:33:53.351125+00:00",
+      "portId": "casamicciola",
+      "distanceMeters": 167,
       "atPort": true
     },
     {
