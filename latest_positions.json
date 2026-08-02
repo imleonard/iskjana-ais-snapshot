@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-02T16:16:03.786802+00:00",
+  "generatedAt": "2026-08-02T17:28:24.329627+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.79187,
-      "longitude": 14.23538,
-      "speedKnots": 12,
-      "observedAt": "2026-08-02T16:16:03.786802+00:00",
+      "latitude": 40.79345,
+      "longitude": 14.23252,
+      "speedKnots": 11.8,
+      "observedAt": "2026-08-02T17:28:24.329627+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 5437,
+      "distanceMeters": 5351,
       "atPort": false
     },
     {
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.77045,
-      "longitude": 14.18413,
-      "speedKnots": 13.5,
-      "observedAt": "2026-08-01T15:58:41.322937+00:00",
+      "latitude": 40.80387,
+      "longitude": 14.10428,
+      "speedKnots": 12.8,
+      "observedAt": "2026-08-02T17:28:24.329627+00:00",
       "portId": "pozzuoli",
-      "distanceMeters": 8132,
+      "distanceMeters": 2488,
       "atPort": false
     },
     {
