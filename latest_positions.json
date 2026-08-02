@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-02T01:14:19.041223+00:00",
+  "generatedAt": "2026-08-02T04:42:32.268763+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.75853,
-      "longitude": 14.10562,
-      "speedKnots": 11.5,
-      "observedAt": "2026-08-01T12:05:45.700590+00:00",
-      "portId": "procida",
-      "distanceMeters": 6760,
+      "latitude": 40.76533,
+      "longitude": 13.98115,
+      "speedKnots": 11.6,
+      "observedAt": "2026-08-02T04:42:32.268763+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 3263,
       "atPort": false
     },
     {
@@ -53,12 +53,12 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.83483,
-      "longitude": 14.26206,
-      "speedKnots": 0,
-      "observedAt": "2026-07-31T12:23:55.777975+00:00",
+      "latitude": 40.83786,
+      "longitude": 14.25539,
+      "speedKnots": 0.1,
+      "observedAt": "2026-08-02T04:42:32.268763+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 705,
+      "distanceMeters": 65,
       "atPort": true
     },
     {
