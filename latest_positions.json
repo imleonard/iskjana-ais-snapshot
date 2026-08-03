@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T21:48:12.834529+00:00",
+  "generatedAt": "2026-08-03T22:46:33.565055+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -54,11 +54,11 @@
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
       "latitude": 40.82743,
-      "longitude": 14.22272,
+      "longitude": 14.22271,
       "speedKnots": 0,
-      "observedAt": "2026-08-03T21:48:12.834529+00:00",
+      "observedAt": "2026-08-03T22:46:33.565055+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 2990,
+      "distanceMeters": 2991,
       "atPort": false
     },
     {
