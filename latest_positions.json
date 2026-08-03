@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T20:38:58.474661+00:00",
+  "generatedAt": "2026-08-03T21:48:12.834529+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,13 +29,13 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.8004,
-      "longitude": 14.2464,
-      "speedKnots": 13.9,
-      "observedAt": "2026-08-03T17:20:21.887320+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 4291,
-      "atPort": false
+      "latitude": 40.74499,
+      "longitude": 13.93895,
+      "speedKnots": 0,
+      "observedAt": "2026-08-03T21:48:12.834529+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 1105,
+      "atPort": true
     },
     {
       "mmsi": "247058700",
@@ -54,11 +54,11 @@
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
       "latitude": 40.82743,
-      "longitude": 14.22271,
+      "longitude": 14.22272,
       "speedKnots": 0,
-      "observedAt": "2026-08-03T19:02:47.962940+00:00",
+      "observedAt": "2026-08-03T21:48:12.834529+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 2991,
+      "distanceMeters": 2990,
       "atPort": false
     },
     {
