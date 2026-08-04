@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T12:51:25.184160+00:00",
+  "generatedAt": "2026-08-04T15:16:42.398036+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -53,12 +53,12 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.82741,
+      "latitude": 40.82743,
       "longitude": 14.22272,
       "speedKnots": 0,
-      "observedAt": "2026-08-04T10:49:49.626026+00:00",
+      "observedAt": "2026-08-04T15:16:42.398036+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 2991,
+      "distanceMeters": 2990,
       "atPort": false
     },
     {
@@ -101,12 +101,12 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.78768,
-      "longitude": 14.20922,
-      "speedKnots": 29,
-      "observedAt": "2026-08-02T18:34:14.687869+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 6839,
+      "latitude": 40.78037,
+      "longitude": 14.12313,
+      "speedKnots": 27.9,
+      "observedAt": "2026-08-04T15:16:42.398036+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 4839,
       "atPort": false
     },
     {
@@ -137,13 +137,13 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.84295,
-      "longitude": 14.27007,
+      "latitude": 40.8373,
+      "longitude": 14.25507,
       "speedKnots": 0,
-      "observedAt": "2026-08-04T10:49:49.626026+00:00",
+      "observedAt": "2026-08-04T15:16:42.398036+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 1352,
-      "atPort": false
+      "distanceMeters": 125,
+      "atPort": true
     },
     {
       "mmsi": "247050100",
