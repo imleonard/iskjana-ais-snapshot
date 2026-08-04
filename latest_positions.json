@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T08:06:35.626009+00:00",
+  "generatedAt": "2026-08-04T10:49:49.626026+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -41,22 +41,22 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.83785,
-      "longitude": 14.25532,
+      "latitude": 40.75081,
+      "longitude": 13.90725,
       "speedKnots": 0,
-      "observedAt": "2026-07-31T14:58:27.047267+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 65,
+      "observedAt": "2026-08-04T10:49:49.626026+00:00",
+      "portId": "casamicciola",
+      "distanceMeters": 233,
       "atPort": true
     },
     {
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.82743,
-      "longitude": 14.22271,
+      "latitude": 40.82741,
+      "longitude": 14.22272,
       "speedKnots": 0,
-      "observedAt": "2026-08-04T05:33:30.260014+00:00",
+      "observedAt": "2026-08-04T10:49:49.626026+00:00",
       "portId": "napoli_molo_beverello",
       "distanceMeters": 2991,
       "atPort": false
@@ -77,12 +77,12 @@
       "mmsi": "247047400",
       "name": "NETTUNO JET",
       "operatorId": "alilauro",
-      "latitude": 40.83786,
-      "longitude": 14.25531,
+      "latitude": 40.83685,
+      "longitude": 14.25442,
       "speedKnots": 0,
-      "observedAt": "2026-08-03T08:26:42.801497+00:00",
+      "observedAt": "2026-08-04T10:49:49.626026+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 63,
+      "distanceMeters": 185,
       "atPort": true
     },
     {
@@ -137,13 +137,13 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.837,
-      "longitude": 14.25484,
+      "latitude": 40.84295,
+      "longitude": 14.27007,
       "speedKnots": 0,
-      "observedAt": "2026-08-03T15:10:01.347543+00:00",
+      "observedAt": "2026-08-04T10:49:49.626026+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 160,
-      "atPort": true
+      "distanceMeters": 1352,
+      "atPort": false
     },
     {
       "mmsi": "247050100",
