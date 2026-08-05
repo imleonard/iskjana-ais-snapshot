@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-05T07:20:52.922323+00:00",
+  "generatedAt": "2026-08-05T10:04:03.792882+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.79345,
-      "longitude": 14.23252,
-      "speedKnots": 11.8,
-      "observedAt": "2026-08-02T17:28:24.329627+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 5351,
+      "latitude": 40.77619,
+      "longitude": 14.09404,
+      "speedKnots": 12.1,
+      "observedAt": "2026-08-05T10:04:03.792882+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 5654,
       "atPort": false
     },
     {
@@ -29,25 +29,25 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.74757,
-      "longitude": 13.9609,
-      "speedKnots": 14.3,
-      "observedAt": "2026-08-05T04:32:05.442189+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 770,
-      "atPort": true
+      "latitude": 40.83173,
+      "longitude": 14.27883,
+      "speedKnots": 11.8,
+      "observedAt": "2026-08-05T10:04:03.792882+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 2126,
+      "atPort": false
     },
     {
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.76605,
-      "longitude": 14.02753,
-      "speedKnots": 0,
-      "observedAt": "2026-08-05T07:20:52.922323+00:00",
+      "latitude": 40.77266,
+      "longitude": 14.08148,
+      "speedKnots": 25.1,
+      "observedAt": "2026-08-05T10:04:03.792882+00:00",
       "portId": "procida",
-      "distanceMeters": 151,
-      "atPort": true
+      "distanceMeters": 4748,
+      "atPort": false
     },
     {
       "mmsi": "247058800",
