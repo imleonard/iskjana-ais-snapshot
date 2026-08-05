@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T10:04:03.792882+00:00",
+  "generatedAt": "2026-08-05T12:12:43.984567+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -149,12 +149,12 @@
       "mmsi": "247050100",
       "name": "ACAPULCO JET",
       "operatorId": "alilauro",
-      "latitude": 40.83478,
-      "longitude": 14.26961,
-      "speedKnots": 8.6,
-      "observedAt": "2026-08-05T07:20:52.922323+00:00",
+      "latitude": 40.84292,
+      "longitude": 14.27031,
+      "speedKnots": 0,
+      "observedAt": "2026-08-05T12:12:43.984567+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 1281,
+      "distanceMeters": 1369,
       "atPort": false
     },
     {
