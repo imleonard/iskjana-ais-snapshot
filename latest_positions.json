@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T22:18:56.913444+00:00",
+  "generatedAt": "2026-08-17T22:47:40.154262+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -41,12 +41,12 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.75059,
-      "longitude": 13.907,
+      "latitude": 40.75064,
+      "longitude": 13.90705,
       "speedKnots": 0,
-      "observedAt": "2026-08-17T22:18:56.913444+00:00",
+      "observedAt": "2026-08-17T22:47:40.154262+00:00",
       "portId": "casamicciola",
-      "distanceMeters": 257,
+      "distanceMeters": 252,
       "atPort": true
     },
     {
