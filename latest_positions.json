@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T10:25:43.360559+00:00",
+  "generatedAt": "2026-08-17T10:58:33.045475+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -30,11 +30,11 @@
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
       "latitude": 40.8429,
-      "longitude": 14.2621,
+      "longitude": 14.26208,
       "speedKnots": 0,
-      "observedAt": "2026-08-17T10:25:43.360559+00:00",
+      "observedAt": "2026-08-17T10:58:33.045475+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 768,
+      "distanceMeters": 766,
       "atPort": true
     },
     {
@@ -101,24 +101,24 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.83727,
-      "longitude": 14.25502,
-      "speedKnots": 0.4,
-      "observedAt": "2026-08-17T10:25:43.360559+00:00",
+      "latitude": 40.8373,
+      "longitude": 14.25507,
+      "speedKnots": 0,
+      "observedAt": "2026-08-17T10:58:33.045475+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 128,
+      "distanceMeters": 125,
       "atPort": true
     },
     {
       "mmsi": "247070900",
       "name": "CITTA DI FORIO",
       "operatorId": "alilauro",
-      "latitude": 40.84298,
-      "longitude": 14.27008,
-      "speedKnots": 0,
-      "observedAt": "2026-08-17T08:57:47.199301+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 1354,
+      "latitude": 40.77626,
+      "longitude": 14.06115,
+      "speedKnots": 19.4,
+      "observedAt": "2026-08-17T10:58:33.045475+00:00",
+      "portId": "procida",
+      "distanceMeters": 3201,
       "atPort": false
     },
     {
