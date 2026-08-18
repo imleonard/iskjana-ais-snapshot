@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T03:27:07.149443+00:00",
+  "generatedAt": "2026-08-18T04:09:55.162075+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -17,12 +17,12 @@
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.7665,
-      "longitude": 14.02658,
-      "speedKnots": 0.7,
-      "observedAt": "2026-08-18T01:23:51.419878+00:00",
-      "portId": "procida",
-      "distanceMeters": 125,
+      "latitude": 40.7508,
+      "longitude": 13.90797,
+      "speedKnots": 0,
+      "observedAt": "2026-08-18T04:09:55.162075+00:00",
+      "portId": "casamicciola",
+      "distanceMeters": 172,
       "atPort": true
     },
     {
@@ -42,11 +42,11 @@
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
       "latitude": 40.75061,
-      "longitude": 13.90702,
+      "longitude": 13.907,
       "speedKnots": 0,
-      "observedAt": "2026-08-18T03:27:07.149443+00:00",
+      "observedAt": "2026-08-18T04:09:55.162075+00:00",
       "portId": "casamicciola",
-      "distanceMeters": 255,
+      "distanceMeters": 256,
       "atPort": true
     },
     {
