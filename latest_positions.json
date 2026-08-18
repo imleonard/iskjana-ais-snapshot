@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T05:24:19.891149+00:00",
+  "generatedAt": "2026-08-18T05:55:32.515470+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -41,13 +41,13 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.75061,
-      "longitude": 13.907,
-      "speedKnots": 0,
-      "observedAt": "2026-08-18T04:09:55.162075+00:00",
-      "portId": "casamicciola",
-      "distanceMeters": 256,
-      "atPort": true
+      "latitude": 40.78402,
+      "longitude": 14.19394,
+      "speedKnots": 27.1,
+      "observedAt": "2026-08-18T05:55:32.515470+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 7772,
+      "atPort": false
     },
     {
       "mmsi": "247058800",
@@ -65,13 +65,13 @@
       "mmsi": "247270100",
       "name": "ANGELINA LAURO JET",
       "operatorId": "alilauro",
-      "latitude": 40.83759,
-      "longitude": 14.25527,
-      "speedKnots": 0,
-      "observedAt": "2026-08-18T05:24:19.891149+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 93,
-      "atPort": true
+      "latitude": 40.78301,
+      "longitude": 14.1821,
+      "speedKnots": 26.7,
+      "observedAt": "2026-08-18T05:55:32.515470+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 7046,
+      "atPort": false
     },
     {
       "mmsi": "247047400",
@@ -89,12 +89,12 @@
       "mmsi": "247055800",
       "name": "GIUNONE JET",
       "operatorId": "alilauro",
-      "latitude": 40.55765,
-      "longitude": 14.24129,
+      "latitude": 40.62985,
+      "longitude": 14.3746,
       "speedKnots": 0,
-      "observedAt": "2026-08-17T14:05:29.894853+00:00",
-      "portId": "procida",
-      "distanceMeters": 29399,
+      "observedAt": "2026-08-18T05:55:32.515470+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 25281,
       "atPort": false
     },
     {
