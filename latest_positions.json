@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-18T11:36:35.542970+00:00",
+  "generatedAt": "2026-08-18T11:59:44.897331+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.77279,
-      "longitude": 14.05635,
-      "speedKnots": 11.9,
-      "observedAt": "2026-08-18T06:45:17.498140+00:00",
+      "latitude": 40.77608,
+      "longitude": 14.05764,
+      "speedKnots": 11.5,
+      "observedAt": "2026-08-18T11:59:44.897331+00:00",
       "portId": "procida",
-      "distanceMeters": 2690,
+      "distanceMeters": 2921,
       "atPort": false
     },
     {
@@ -77,12 +77,12 @@
       "mmsi": "247047400",
       "name": "NETTUNO JET",
       "operatorId": "alilauro",
-      "latitude": 40.71804,
-      "longitude": 14.33877,
-      "speedKnots": 28.2,
-      "observedAt": "2026-08-18T09:24:34.409946+00:00",
+      "latitude": 40.63052,
+      "longitude": 14.37685,
+      "speedKnots": 0,
+      "observedAt": "2026-08-18T11:59:44.897331+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 15124,
+      "distanceMeters": 25289,
       "atPort": false
     },
     {
@@ -92,7 +92,7 @@
       "latitude": 40.55758,
       "longitude": 14.24085,
       "speedKnots": 0,
-      "observedAt": "2026-08-18T11:36:35.542970+00:00",
+      "observedAt": "2026-08-18T11:59:44.897331+00:00",
       "portId": "procida",
       "distanceMeters": 29382,
       "atPort": false
