@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:57:20.407146+00:00",
+  "generatedAt": "2026-08-18T01:23:51.419878+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -17,13 +17,13 @@
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.81728,
-      "longitude": 14.1057,
-      "speedKnots": 13.1,
-      "observedAt": "2026-08-17T16:37:24.100170+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 1254,
-      "atPort": false
+      "latitude": 40.7665,
+      "longitude": 14.02658,
+      "speedKnots": 0.7,
+      "observedAt": "2026-08-18T01:23:51.419878+00:00",
+      "portId": "procida",
+      "distanceMeters": 125,
+      "atPort": true
     },
     {
       "mmsi": "247375500",
