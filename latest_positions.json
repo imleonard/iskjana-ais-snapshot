@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T10:39:11.321473+00:00",
+  "generatedAt": "2026-08-18T11:03:14.728718+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -32,7 +32,7 @@
       "latitude": 40.84243,
       "longitude": 14.26137,
       "speedKnots": 0,
-      "observedAt": "2026-08-18T10:39:11.321473+00:00",
+      "observedAt": "2026-08-18T11:03:14.728718+00:00",
       "portId": "napoli_molo_beverello",
       "distanceMeters": 687,
       "atPort": true
