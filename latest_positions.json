@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T08:51:55.625404+00:00",
+  "generatedAt": "2026-08-18T09:24:34.409946+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -41,13 +41,13 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.81532,
-      "longitude": 14.27846,
-      "speedKnots": 26.9,
-      "observedAt": "2026-08-18T08:51:55.625404+00:00",
+      "latitude": 40.83781,
+      "longitude": 14.25527,
+      "speedKnots": 0,
+      "observedAt": "2026-08-18T09:24:34.409946+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 3231,
-      "atPort": false
+      "distanceMeters": 68,
+      "atPort": true
     },
     {
       "mmsi": "247058800",
@@ -77,12 +77,12 @@
       "mmsi": "247047400",
       "name": "NETTUNO JET",
       "operatorId": "alilauro",
-      "latitude": 40.78956,
-      "longitude": 14.29719,
-      "speedKnots": 29.7,
-      "observedAt": "2026-08-18T07:26:05.376169+00:00",
+      "latitude": 40.71804,
+      "longitude": 14.33877,
+      "speedKnots": 28.2,
+      "observedAt": "2026-08-18T09:24:34.409946+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 6483,
+      "distanceMeters": 15124,
       "atPort": false
     },
     {
@@ -101,12 +101,12 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.84201,
-      "longitude": 14.26995,
+      "latitude": 40.84203,
+      "longitude": 14.26997,
       "speedKnots": 0,
-      "observedAt": "2026-08-18T08:51:55.625404+00:00",
+      "observedAt": "2026-08-18T09:24:34.409946+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 1307,
+      "distanceMeters": 1309,
       "atPort": false
     },
     {
