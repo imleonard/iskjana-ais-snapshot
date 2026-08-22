@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:17:59.034757+00:00",
+  "generatedAt": "2026-08-22T18:54:05.618922+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -41,12 +41,12 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.83757,
-      "longitude": 14.25621,
-      "speedKnots": 6.2,
-      "observedAt": "2026-08-18T16:51:49.931710+00:00",
+      "latitude": 40.83691,
+      "longitude": 14.25463,
+      "speedKnots": 0.6,
+      "observedAt": "2026-08-22T18:54:05.618922+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 129,
+      "distanceMeters": 174,
       "atPort": true
     },
     {
