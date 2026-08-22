@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T17:51:49.438021+00:00",
+  "generatedAt": "2026-08-22T18:17:59.034757+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -53,12 +53,12 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.82032,
-      "longitude": 14.28405,
-      "speedKnots": 27.5,
-      "observedAt": "2026-08-22T17:29:24.852493+00:00",
+      "latitude": 40.75138,
+      "longitude": 14.27991,
+      "speedKnots": 29.2,
+      "observedAt": "2026-08-22T18:17:59.034757+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 3156,
+      "distanceMeters": 9900,
       "atPort": false
     },
     {
@@ -137,13 +137,13 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.74872,
-      "longitude": 14.0645,
-      "speedKnots": 27.2,
-      "observedAt": "2026-08-22T17:29:24.852493+00:00",
-      "portId": "procida",
-      "distanceMeters": 3749,
-      "atPort": false
+      "latitude": 40.83767,
+      "longitude": 14.25533,
+      "speedKnots": 0,
+      "observedAt": "2026-08-22T18:17:59.034757+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 85,
+      "atPort": true
     },
     {
       "mmsi": "247050100",
