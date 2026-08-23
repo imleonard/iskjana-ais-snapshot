@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T15:32:01.494016+00:00",
+  "generatedAt": "2026-08-23T15:54:24.218067+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,13 +29,13 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.74501,
-      "longitude": 13.93897,
-      "speedKnots": 0,
-      "observedAt": "2026-08-23T14:06:40.911741+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 1103,
-      "atPort": true
+      "latitude": 40.77637,
+      "longitude": 14.19407,
+      "speedKnots": 14.1,
+      "observedAt": "2026-08-23T15:54:24.218067+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 8293,
+      "atPort": false
     },
     {
       "mmsi": "247058700",
@@ -65,12 +65,12 @@
       "mmsi": "247270100",
       "name": "ANGELINA LAURO JET",
       "operatorId": "alilauro",
-      "latitude": 40.74443,
-      "longitude": 13.94045,
-      "speedKnots": 0.8,
-      "observedAt": "2026-08-23T15:00:14.518862+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 989,
+      "latitude": 40.83688,
+      "longitude": 14.2545,
+      "speedKnots": 0.4,
+      "observedAt": "2026-08-23T15:54:24.218067+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 180,
       "atPort": true
     },
     {
