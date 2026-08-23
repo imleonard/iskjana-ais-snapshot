@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:57:28.792274+00:00",
+  "generatedAt": "2026-08-23T07:40:09.304779+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -17,13 +17,13 @@
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.77568,
-      "longitude": 14.05183,
-      "speedKnots": 12.3,
-      "observedAt": "2026-08-22T16:59:57.550160+00:00",
-      "portId": "procida",
-      "distanceMeters": 2460,
-      "atPort": false
+      "latitude": 40.75088,
+      "longitude": 13.90797,
+      "speedKnots": 0,
+      "observedAt": "2026-08-23T07:40:09.304779+00:00",
+      "portId": "casamicciola",
+      "distanceMeters": 172,
+      "atPort": true
     },
     {
       "mmsi": "247375500",
@@ -149,12 +149,12 @@
       "mmsi": "247050100",
       "name": "ACAPULCO JET",
       "operatorId": "alilauro",
-      "latitude": 40.77467,
-      "longitude": 14.10367,
-      "speedKnots": 31.6,
-      "observedAt": "2026-08-18T08:51:55.625404+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 5584,
+      "latitude": 40.74213,
+      "longitude": 14.04513,
+      "speedKnots": 31.3,
+      "observedAt": "2026-08-23T07:40:09.304779+00:00",
+      "portId": "procida",
+      "distanceMeters": 3063,
       "atPort": false
     },
     {
