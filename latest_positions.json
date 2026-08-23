@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:59:04.850427+00:00",
+  "generatedAt": "2026-08-23T11:29:32.571522+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -53,12 +53,12 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.77544,
-      "longitude": 14.12971,
-      "speedKnots": 27,
-      "observedAt": "2026-08-23T10:59:04.850427+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 5458,
+      "latitude": 40.75946,
+      "longitude": 13.92858,
+      "speedKnots": 28.1,
+      "observedAt": "2026-08-23T11:29:32.571522+00:00",
+      "portId": "casamicciola",
+      "distanceMeters": 1826,
       "atPort": false
     },
     {
@@ -89,24 +89,24 @@
       "mmsi": "247055800",
       "name": "GIUNONE JET",
       "operatorId": "alilauro",
-      "latitude": 40.62725,
-      "longitude": 14.32533,
-      "speedKnots": 27.3,
-      "observedAt": "2026-08-23T10:37:09.286818+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 24214,
+      "latitude": 40.57332,
+      "longitude": 14.23612,
+      "speedKnots": 28,
+      "observedAt": "2026-08-23T11:29:32.571522+00:00",
+      "portId": "procida",
+      "distanceMeters": 27768,
       "atPort": false
     },
     {
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.75478,
-      "longitude": 14.09723,
-      "speedKnots": 26.5,
-      "observedAt": "2026-08-23T10:04:56.333476+00:00",
-      "portId": "procida",
-      "distanceMeters": 6126,
+      "latitude": 40.82268,
+      "longitude": 14.27615,
+      "speedKnots": 102.3,
+      "observedAt": "2026-08-23T11:29:32.571522+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 2486,
       "atPort": false
     },
     {
@@ -137,12 +137,12 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.74585,
-      "longitude": 13.9588,
-      "speedKnots": 25.6,
-      "observedAt": "2026-08-23T09:46:19.316706+00:00",
+      "latitude": 40.75233,
+      "longitude": 13.95578,
+      "speedKnots": 24.7,
+      "observedAt": "2026-08-23T11:29:32.571522+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 573,
+      "distanceMeters": 773,
       "atPort": true
     },
     {
@@ -161,12 +161,12 @@
       "mmsi": "247161800",
       "name": "COLUMBIA",
       "operatorId": "alilauro_operata_da_laser_capri",
-      "latitude": 40.75018,
-      "longitude": 13.94192,
-      "speedKnots": 13.2,
-      "observedAt": "2026-08-01T17:12:02.817250+00:00",
+      "latitude": 40.74482,
+      "longitude": 13.94037,
+      "speedKnots": 7.1,
+      "observedAt": "2026-08-23T11:29:32.571522+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 968,
+      "distanceMeters": 988,
       "atPort": true
     }
   ]
