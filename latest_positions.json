@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-23T18:36:35.173690+00:00",
+  "generatedAt": "2026-08-23T19:02:39.267309+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.8237,
-      "longitude": 14.10957,
-      "speedKnots": 10.9,
-      "observedAt": "2026-08-23T18:36:35.173690+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 704,
-      "atPort": true
+      "latitude": 40.77577,
+      "longitude": 14.05499,
+      "speedKnots": 11.4,
+      "observedAt": "2026-08-23T19:02:39.267309+00:00",
+      "portId": "procida",
+      "distanceMeters": 2703,
+      "atPort": false
     },
     {
       "mmsi": "247213200",
@@ -41,12 +41,12 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.81435,
-      "longitude": 14.27202,
-      "speedKnots": 27.1,
-      "observedAt": "2026-08-23T06:01:54.620688+00:00",
+      "latitude": 40.82035,
+      "longitude": 14.28447,
+      "speedKnots": 24.2,
+      "observedAt": "2026-08-23T19:02:39.267309+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 3029,
+      "distanceMeters": 3181,
       "atPort": false
     },
     {
@@ -65,12 +65,12 @@
       "mmsi": "247270100",
       "name": "ANGELINA LAURO JET",
       "operatorId": "alilauro",
-      "latitude": 40.76095,
-      "longitude": 14.1398,
-      "speedKnots": 27,
-      "observedAt": "2026-08-23T17:56:48.368519+00:00",
+      "latitude": 40.76128,
+      "longitude": 14.13197,
+      "speedKnots": 28.5,
+      "observedAt": "2026-08-23T19:02:39.267309+00:00",
       "portId": "pozzuoli",
-      "distanceMeters": 7217,
+      "distanceMeters": 7042,
       "atPort": false
     },
     {
@@ -101,13 +101,13 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.8359,
-      "longitude": 14.26278,
-      "speedKnots": 9.8,
-      "observedAt": "2026-08-23T17:56:48.368519+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 700,
-      "atPort": true
+      "latitude": 40.7589,
+      "longitude": 13.91982,
+      "speedKnots": 29.3,
+      "observedAt": "2026-08-23T19:02:39.267309+00:00",
+      "portId": "casamicciola",
+      "distanceMeters": 1207,
+      "atPort": false
     },
     {
       "mmsi": "247070900",
