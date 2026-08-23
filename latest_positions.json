@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-23T14:37:31.599504+00:00",
+  "generatedAt": "2026-08-23T15:00:14.518862+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.79887,
-      "longitude": 14.10265,
-      "speedKnots": 11.6,
-      "observedAt": "2026-08-23T10:37:09.286818+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 3047,
+      "latitude": 40.77566,
+      "longitude": 14.06153,
+      "speedKnots": 11.2,
+      "observedAt": "2026-08-23T15:00:14.518862+00:00",
+      "portId": "procida",
+      "distanceMeters": 3207,
       "atPort": false
     },
     {
@@ -65,13 +65,13 @@
       "mmsi": "247270100",
       "name": "ANGELINA LAURO JET",
       "operatorId": "alilauro",
-      "latitude": 40.77273,
-      "longitude": 14.1498,
-      "speedKnots": 23.5,
-      "observedAt": "2026-08-23T10:04:56.333476+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 6271,
-      "atPort": false
+      "latitude": 40.74443,
+      "longitude": 13.94045,
+      "speedKnots": 0.8,
+      "observedAt": "2026-08-23T15:00:14.518862+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 989,
+      "atPort": true
     },
     {
       "mmsi": "247047400",
