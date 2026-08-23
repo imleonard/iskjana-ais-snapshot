@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:45:37.330184+00:00",
+  "generatedAt": "2026-08-23T14:06:40.911741+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,13 +29,13 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.7737,
-      "longitude": 14.11055,
-      "speedKnots": 13.8,
-      "observedAt": "2026-08-23T13:07:56.045212+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 5596,
-      "atPort": false
+      "latitude": 40.74501,
+      "longitude": 13.93897,
+      "speedKnots": 0,
+      "observedAt": "2026-08-23T14:06:40.911741+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 1103,
+      "atPort": true
     },
     {
       "mmsi": "247058700",
@@ -53,13 +53,13 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.77387,
-      "longitude": 14.1666,
-      "speedKnots": 28.7,
-      "observedAt": "2026-08-23T13:45:37.330184+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 6892,
-      "atPort": false
+      "latitude": 40.8376,
+      "longitude": 14.25621,
+      "speedKnots": 5.1,
+      "observedAt": "2026-08-23T14:06:40.911741+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 127,
+      "atPort": true
     },
     {
       "mmsi": "247270100",
@@ -89,12 +89,12 @@
       "mmsi": "247055800",
       "name": "GIUNONE JET",
       "operatorId": "alilauro",
-      "latitude": 40.59594,
-      "longitude": 14.21108,
-      "speedKnots": 0.3,
-      "observedAt": "2026-08-23T13:45:37.330184+00:00",
+      "latitude": 40.5979,
+      "longitude": 14.21378,
+      "speedKnots": 0.5,
+      "observedAt": "2026-08-23T14:06:40.911741+00:00",
       "portId": "procida",
-      "distanceMeters": 24482,
+      "distanceMeters": 24461,
       "atPort": false
     },
     {
