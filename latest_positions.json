@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T04:20:24.205684+00:00",
+  "generatedAt": "2026-08-23T04:58:21.482141+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,12 +29,12 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.77119,
-      "longitude": 14.0933,
-      "speedKnots": 13.7,
-      "observedAt": "2026-08-22T17:51:49.438021+00:00",
+      "latitude": 40.77003,
+      "longitude": 14.08165,
+      "speedKnots": 14.2,
+      "observedAt": "2026-08-23T04:58:21.482141+00:00",
       "portId": "procida",
-      "distanceMeters": 5712,
+      "distanceMeters": 4723,
       "atPort": false
     },
     {
@@ -89,12 +89,12 @@
       "mmsi": "247055800",
       "name": "GIUNONE JET",
       "operatorId": "alilauro",
-      "latitude": 40.63953,
-      "longitude": 14.40018,
+      "latitude": 40.62984,
+      "longitude": 14.37441,
       "speedKnots": 0,
-      "observedAt": "2026-08-19T05:27:36.590409+00:00",
+      "observedAt": "2026-08-23T04:58:21.482141+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 25266,
+      "distanceMeters": 25276,
       "atPort": false
     },
     {
