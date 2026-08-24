@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T08:08:33.621231+00:00",
+  "generatedAt": "2026-08-24T09:04:05.835465+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -53,12 +53,12 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.83458,
-      "longitude": 14.26251,
+      "latitude": 40.83459,
+      "longitude": 14.26252,
       "speedKnots": 0,
-      "observedAt": "2026-08-24T08:08:33.621231+00:00",
+      "observedAt": "2026-08-24T09:04:05.835465+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 751,
+      "distanceMeters": 752,
       "atPort": true
     },
     {
@@ -77,12 +77,12 @@
       "mmsi": "247047400",
       "name": "NETTUNO JET",
       "operatorId": "alilauro",
-      "latitude": 40.78782,
-      "longitude": 14.21315,
-      "speedKnots": 28.7,
-      "observedAt": "2026-08-24T08:08:33.621231+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 6645,
+      "latitude": 40.78412,
+      "longitude": 14.19278,
+      "speedKnots": 28.8,
+      "observedAt": "2026-08-24T09:04:05.835465+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 7685,
       "atPort": false
     },
     {
@@ -149,12 +149,12 @@
       "mmsi": "247050100",
       "name": "ACAPULCO JET",
       "operatorId": "alilauro",
-      "latitude": 40.83051,
-      "longitude": 14.27691,
-      "speedKnots": 27.4,
-      "observedAt": "2026-08-24T07:16:02.589841+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 2030,
+      "latitude": 40.77965,
+      "longitude": 14.15036,
+      "speedKnots": 28.6,
+      "observedAt": "2026-08-24T09:04:05.835465+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 5608,
       "atPort": false
     },
     {
