@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-24T12:19:25.173046+00:00",
+  "generatedAt": "2026-08-24T13:27:12.304851+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.77489,
-      "longitude": 14.07992,
-      "speedKnots": 11.8,
-      "observedAt": "2026-08-24T08:08:33.621231+00:00",
+      "latitude": 40.77472,
+      "longitude": 14.02564,
+      "speedKnots": 11.7,
+      "observedAt": "2026-08-24T13:27:12.304851+00:00",
       "portId": "procida",
-      "distanceMeters": 4668,
-      "atPort": false
+      "distanceMeters": 1025,
+      "atPort": true
     },
     {
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.77561,
-      "longitude": 14.08422,
-      "speedKnots": 13.1,
-      "observedAt": "2026-08-24T12:19:25.173046+00:00",
+      "latitude": 40.77601,
+      "longitude": 14.07462,
+      "speedKnots": 12.3,
+      "observedAt": "2026-08-24T13:27:12.304851+00:00",
       "portId": "procida",
-      "distanceMeters": 5039,
+      "distanceMeters": 4267,
       "atPort": false
     },
     {
@@ -53,25 +53,25 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.75062,
-      "longitude": 13.90716,
-      "speedKnots": 0,
-      "observedAt": "2026-08-24T11:48:45.604255+00:00",
-      "portId": "casamicciola",
-      "distanceMeters": 243,
-      "atPort": true
+      "latitude": 40.7699,
+      "longitude": 13.98659,
+      "speedKnots": 28.7,
+      "observedAt": "2026-08-24T13:27:12.304851+00:00",
+      "portId": "procida",
+      "distanceMeters": 3346,
+      "atPort": false
     },
     {
       "mmsi": "247270100",
       "name": "ANGELINA LAURO JET",
       "operatorId": "alilauro",
-      "latitude": 40.8369,
-      "longitude": 14.25613,
-      "speedKnots": 6.7,
-      "observedAt": "2026-08-24T12:19:25.173046+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 188,
-      "atPort": true
+      "latitude": 40.77448,
+      "longitude": 14.0678,
+      "speedKnots": 25.4,
+      "observedAt": "2026-08-24T13:27:12.304851+00:00",
+      "portId": "procida",
+      "distanceMeters": 3668,
+      "atPort": false
     },
     {
       "mmsi": "247047400",
