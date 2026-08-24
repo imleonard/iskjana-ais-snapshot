@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T09:59:54.063146+00:00",
+  "generatedAt": "2026-08-24T10:48:01.925828+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -101,12 +101,12 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.83719,
-      "longitude": 14.25507,
-      "speedKnots": 0.1,
-      "observedAt": "2026-08-24T06:01:28.678571+00:00",
+      "latitude": 40.83701,
+      "longitude": 14.25633,
+      "speedKnots": 0.2,
+      "observedAt": "2026-08-24T10:48:01.925828+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 137,
+      "distanceMeters": 185,
       "atPort": true
     },
     {
@@ -137,24 +137,24 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.77403,
-      "longitude": 14.04933,
-      "speedKnots": 26.9,
-      "observedAt": "2026-08-24T09:59:54.063146+00:00",
-      "portId": "procida",
-      "distanceMeters": 2190,
-      "atPort": false
+      "latitude": 40.83694,
+      "longitude": 14.25482,
+      "speedKnots": 0,
+      "observedAt": "2026-08-24T10:48:01.925828+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 167,
+      "atPort": true
     },
     {
       "mmsi": "247050100",
       "name": "ACAPULCO JET",
       "operatorId": "alilauro",
-      "latitude": 40.77965,
-      "longitude": 14.15036,
-      "speedKnots": 28.6,
-      "observedAt": "2026-08-24T09:04:05.835465+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 5608,
+      "latitude": 40.77612,
+      "longitude": 14.03386,
+      "speedKnots": 29.1,
+      "observedAt": "2026-08-24T10:48:01.925828+00:00",
+      "portId": "procida",
+      "distanceMeters": 1358,
       "atPort": false
     },
     {
