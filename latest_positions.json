@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-24T14:13:05.874458+00:00",
+  "generatedAt": "2026-08-24T15:03:58.677494+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.82404,
-      "longitude": 14.11726,
-      "speedKnots": 0,
-      "observedAt": "2026-08-24T14:13:05.874458+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 68,
-      "atPort": true
+      "latitude": 40.77478,
+      "longitude": 14.04722,
+      "speedKnots": 11.1,
+      "observedAt": "2026-08-24T15:03:58.677494+00:00",
+      "portId": "procida",
+      "distanceMeters": 2071,
+      "atPort": false
     },
     {
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.77601,
-      "longitude": 14.07462,
-      "speedKnots": 12.3,
-      "observedAt": "2026-08-24T13:27:12.304851+00:00",
-      "portId": "procida",
-      "distanceMeters": 4267,
+      "latitude": 40.76393,
+      "longitude": 13.94218,
+      "speedKnots": 13.2,
+      "observedAt": "2026-08-24T15:03:58.677494+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 2158,
       "atPort": false
     },
     {
@@ -54,9 +54,9 @@
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
       "latitude": 40.83712,
-      "longitude": 14.2546,
+      "longitude": 14.25458,
       "speedKnots": 0,
-      "observedAt": "2026-08-24T14:13:05.874458+00:00",
+      "observedAt": "2026-08-24T15:03:58.677494+00:00",
       "portId": "napoli_molo_beverello",
       "distanceMeters": 152,
       "atPort": true
@@ -77,13 +77,13 @@
       "mmsi": "247047400",
       "name": "NETTUNO JET",
       "operatorId": "alilauro",
-      "latitude": 40.84299,
-      "longitude": 14.27038,
+      "latitude": 40.73893,
+      "longitude": 13.85917,
       "speedKnots": 0,
-      "observedAt": "2026-08-24T11:48:45.604255+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 1378,
-      "atPort": false
+      "observedAt": "2026-08-24T15:03:58.677494+00:00",
+      "portId": "forio",
+      "distanceMeters": 888,
+      "atPort": true
     },
     {
       "mmsi": "247055800",
@@ -101,13 +101,13 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.83701,
-      "longitude": 14.25633,
-      "speedKnots": 0.2,
-      "observedAt": "2026-08-24T10:48:01.925828+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 185,
-      "atPort": true
+      "latitude": 40.77743,
+      "longitude": 14.14401,
+      "speedKnots": 28.5,
+      "observedAt": "2026-08-24T15:03:58.677494+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 5595,
+      "atPort": false
     },
     {
       "mmsi": "247070900",
@@ -137,12 +137,12 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.83694,
-      "longitude": 14.25482,
+      "latitude": 40.83722,
+      "longitude": 14.25498,
       "speedKnots": 0,
-      "observedAt": "2026-08-24T10:48:01.925828+00:00",
+      "observedAt": "2026-08-24T15:03:58.677494+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 167,
+      "distanceMeters": 134,
       "atPort": true
     },
     {
