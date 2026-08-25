@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:43:49.182701+00:00",
+  "generatedAt": "2026-08-25T06:19:29.927706+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,13 +29,13 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.82661,
-      "longitude": 14.28203,
-      "speedKnots": 14.2,
-      "observedAt": "2026-08-25T05:43:49.182701+00:00",
+      "latitude": 40.84243,
+      "longitude": 14.26138,
+      "speedKnots": 0,
+      "observedAt": "2026-08-25T06:19:29.927706+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 2614,
-      "atPort": false
+      "distanceMeters": 688,
+      "atPort": true
     },
     {
       "mmsi": "247058700",
@@ -149,12 +149,12 @@
       "mmsi": "247050100",
       "name": "ACAPULCO JET",
       "operatorId": "alilauro",
-      "latitude": 40.80377,
-      "longitude": 14.24156,
-      "speedKnots": 31.5,
-      "observedAt": "2026-08-25T05:03:37.727194+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 4019,
+      "latitude": 40.77266,
+      "longitude": 14.04372,
+      "speedKnots": 31,
+      "observedAt": "2026-08-25T06:19:29.927706+00:00",
+      "portId": "procida",
+      "distanceMeters": 1699,
       "atPort": false
     },
     {
