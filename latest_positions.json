@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T14:27:28.952388+00:00",
+  "generatedAt": "2026-08-25T15:24:20.058369+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -17,25 +17,25 @@
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.77802,
-      "longitude": 14.01937,
-      "speedKnots": 13.2,
-      "observedAt": "2026-08-25T13:37:21.086759+00:00",
+      "latitude": 40.777,
+      "longitude": 13.99962,
+      "speedKnots": 12.9,
+      "observedAt": "2026-08-25T15:24:20.058369+00:00",
       "portId": "procida",
-      "distanceMeters": 1496,
+      "distanceMeters": 2555,
       "atPort": false
     },
     {
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.74515,
-      "longitude": 13.93927,
-      "speedKnots": 0,
-      "observedAt": "2026-08-25T14:27:28.952388+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 1077,
-      "atPort": true
+      "latitude": 40.77483,
+      "longitude": 14.01513,
+      "speedKnots": 13.7,
+      "observedAt": "2026-08-25T15:24:20.058369+00:00",
+      "portId": "procida",
+      "distanceMeters": 1377,
+      "atPort": false
     },
     {
       "mmsi": "247058700",
@@ -101,13 +101,13 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.84299,
-      "longitude": 14.27019,
-      "speedKnots": 0,
-      "observedAt": "2026-08-25T12:43:22.478660+00:00",
+      "latitude": 40.83595,
+      "longitude": 14.26394,
+      "speedKnots": 11,
+      "observedAt": "2026-08-25T15:24:20.058369+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 1363,
-      "atPort": false
+      "distanceMeters": 788,
+      "atPort": true
     },
     {
       "mmsi": "247070900",
