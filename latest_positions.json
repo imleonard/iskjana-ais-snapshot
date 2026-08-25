@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:54:40.469072+00:00",
+  "generatedAt": "2026-08-25T19:28:35.351399+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -65,13 +65,13 @@
       "mmsi": "247270100",
       "name": "ANGELINA LAURO JET",
       "operatorId": "alilauro",
-      "latitude": 40.84299,
-      "longitude": 14.27017,
+      "latitude": 40.74408,
+      "longitude": 13.93932,
       "speedKnots": 0,
-      "observedAt": "2026-08-25T10:13:26.307100+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 1361,
-      "atPort": false
+      "observedAt": "2026-08-25T19:28:35.351399+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 1089,
+      "atPort": true
     },
     {
       "mmsi": "247047400",
