@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:01:41.849691+00:00",
+  "generatedAt": "2026-08-25T22:39:39.237776+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -8,7 +8,7 @@
       "latitude": 40.74403,
       "longitude": 13.93977,
       "speedKnots": 0,
-      "observedAt": "2026-08-25T21:39:35.501390+00:00",
+      "observedAt": "2026-08-25T22:39:39.237776+00:00",
       "portId": "ischia_porto",
       "distanceMeters": 1053,
       "atPort": true
@@ -29,13 +29,13 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.7718,
-      "longitude": 14.1442,
-      "speedKnots": 13.4,
-      "observedAt": "2026-08-25T18:01:35.368751+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 6181,
-      "atPort": false
+      "latitude": 40.745,
+      "longitude": 13.93908,
+      "speedKnots": 0,
+      "observedAt": "2026-08-25T22:39:39.237776+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 1094,
+      "atPort": true
     },
     {
       "mmsi": "247058700",
