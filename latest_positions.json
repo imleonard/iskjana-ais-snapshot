@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-25T10:13:26.307100+00:00",
+  "generatedAt": "2026-08-25T10:53:05.940195+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.81273,
-      "longitude": 14.1048,
-      "speedKnots": 11.6,
-      "observedAt": "2026-08-25T10:13:26.307100+00:00",
+      "latitude": 40.82432,
+      "longitude": 14.11722,
+      "speedKnots": 0,
+      "observedAt": "2026-08-25T10:53:05.940195+00:00",
       "portId": "pozzuoli",
-      "distanceMeters": 1647,
-      "atPort": false
+      "distanceMeters": 91,
+      "atPort": true
     },
     {
       "mmsi": "247213200",
@@ -53,13 +53,13 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.83786,
-      "longitude": 14.25541,
-      "speedKnots": 0,
-      "observedAt": "2026-08-25T10:13:26.307100+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 66,
-      "atPort": true
+      "latitude": 40.78018,
+      "longitude": 14.18134,
+      "speedKnots": 24.9,
+      "observedAt": "2026-08-25T10:53:05.940195+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 7205,
+      "atPort": false
     },
     {
       "mmsi": "247270100",
@@ -161,12 +161,12 @@
       "mmsi": "247161800",
       "name": "COLUMBIA",
       "operatorId": "alilauro_operata_da_laser_capri",
-      "latitude": 40.74482,
-      "longitude": 13.94037,
-      "speedKnots": 7.1,
-      "observedAt": "2026-08-23T11:29:32.571522+00:00",
+      "latitude": 40.74359,
+      "longitude": 13.93958,
+      "speedKnots": 0.1,
+      "observedAt": "2026-08-25T10:53:05.940195+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 988,
+      "distanceMeters": 1080,
       "atPort": true
     }
   ]
