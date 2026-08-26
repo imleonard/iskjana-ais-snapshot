@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T13:33:02.095420+00:00",
+  "generatedAt": "2026-08-26T14:22:50.653378+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,37 +29,37 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.84248,
-      "longitude": 14.26142,
+      "latitude": 40.74505,
+      "longitude": 13.93908,
       "speedKnots": 0,
-      "observedAt": "2026-08-26T11:50:06.503477+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 694,
+      "observedAt": "2026-08-26T14:22:50.653378+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 1094,
       "atPort": true
     },
     {
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.83787,
-      "longitude": 14.25535,
-      "speedKnots": 0,
-      "observedAt": "2026-08-26T13:33:02.095420+00:00",
+      "latitude": 40.83754,
+      "longitude": 14.25602,
+      "speedKnots": 1.5,
+      "observedAt": "2026-08-26T14:22:50.653378+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 63,
+      "distanceMeters": 122,
       "atPort": true
     },
     {
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.77385,
-      "longitude": 14.04566,
-      "speedKnots": 28.2,
-      "observedAt": "2026-08-26T13:33:02.095420+00:00",
-      "portId": "procida",
-      "distanceMeters": 1906,
-      "atPort": false
+      "latitude": 40.83712,
+      "longitude": 14.2546,
+      "speedKnots": 0.1,
+      "observedAt": "2026-08-26T14:22:50.653378+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 152,
+      "atPort": true
     },
     {
       "mmsi": "247270100",
@@ -77,13 +77,13 @@
       "mmsi": "247047400",
       "name": "NETTUNO JET",
       "operatorId": "alilauro",
-      "latitude": 40.74422,
-      "longitude": 13.93918,
-      "speedKnots": 0,
-      "observedAt": "2026-08-26T11:50:06.503477+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 1098,
-      "atPort": true
+      "latitude": 40.76892,
+      "longitude": 14.00064,
+      "speedKnots": 27.5,
+      "observedAt": "2026-08-26T14:22:50.653378+00:00",
+      "portId": "procida",
+      "distanceMeters": 2160,
+      "atPort": false
     },
     {
       "mmsi": "247055800",
