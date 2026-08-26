@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:22:50.653378+00:00",
+  "generatedAt": "2026-08-26T15:58:59.448525+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -65,12 +65,12 @@
       "mmsi": "247270100",
       "name": "ANGELINA LAURO JET",
       "operatorId": "alilauro",
-      "latitude": 40.74412,
-      "longitude": 13.93938,
+      "latitude": 40.83693,
+      "longitude": 14.25447,
       "speedKnots": 0,
-      "observedAt": "2026-08-26T13:33:02.095420+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 1084,
+      "observedAt": "2026-08-26T15:58:59.448525+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 175,
       "atPort": true
     },
     {
@@ -137,12 +137,12 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.84302,
-      "longitude": 14.27033,
-      "speedKnots": 0,
-      "observedAt": "2026-08-26T13:33:02.095420+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 1375,
+      "latitude": 40.77657,
+      "longitude": 14.0337,
+      "speedKnots": 27.1,
+      "observedAt": "2026-08-26T15:58:59.448525+00:00",
+      "portId": "procida",
+      "distanceMeters": 1395,
       "atPort": false
     },
     {
