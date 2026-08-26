@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T15:58:59.448525+00:00",
+  "generatedAt": "2026-08-26T16:54:47.435485+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,12 +29,12 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.74505,
-      "longitude": 13.93908,
+      "latitude": 40.84243,
+      "longitude": 14.2613,
       "speedKnots": 0,
-      "observedAt": "2026-08-26T14:22:50.653378+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 1094,
+      "observedAt": "2026-08-26T16:54:47.435485+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 682,
       "atPort": true
     },
     {
@@ -53,13 +53,13 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.83712,
-      "longitude": 14.2546,
-      "speedKnots": 0.1,
-      "observedAt": "2026-08-26T14:22:50.653378+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 152,
-      "atPort": true
+      "latitude": 40.56058,
+      "longitude": 14.24657,
+      "speedKnots": 11.4,
+      "observedAt": "2026-08-26T16:54:47.435485+00:00",
+      "portId": "procida",
+      "distanceMeters": 29423,
+      "atPort": false
     },
     {
       "mmsi": "247270100",
@@ -161,13 +161,13 @@
       "mmsi": "247161800",
       "name": "COLUMBIA",
       "operatorId": "alilauro_operata_da_laser_capri",
-      "latitude": 40.75127,
-      "longitude": 13.90916,
-      "speedKnots": 7.5,
-      "observedAt": "2026-08-26T11:15:05.405943+00:00",
-      "portId": "casamicciola",
-      "distanceMeters": 77,
-      "atPort": true
+      "latitude": 40.75843,
+      "longitude": 13.94109,
+      "speedKnots": 12.4,
+      "observedAt": "2026-08-26T16:54:47.435485+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 1660,
+      "atPort": false
     }
   ]
 }
