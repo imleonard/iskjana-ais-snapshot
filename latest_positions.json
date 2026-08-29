@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T02:03:47.958156+00:00",
+  "generatedAt": "2026-08-29T08:59:09.358295+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,12 +29,12 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.78241,
-      "longitude": 14.20818,
-      "speedKnots": 13.7,
-      "observedAt": "2026-08-27T12:54:55.611382+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 7377,
+      "latitude": 40.76795,
+      "longitude": 13.99203,
+      "speedKnots": 13.9,
+      "observedAt": "2026-08-29T08:59:09.358295+00:00",
+      "portId": "procida",
+      "distanceMeters": 2865,
       "atPort": false
     },
     {
@@ -77,12 +77,12 @@
       "mmsi": "247047400",
       "name": "NETTUNO JET",
       "operatorId": "alilauro",
-      "latitude": 40.84291,
-      "longitude": 14.2702,
-      "speedKnots": 0,
-      "observedAt": "2026-08-28T06:25:47.469931+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 1360,
+      "latitude": 40.76345,
+      "longitude": 14.10915,
+      "speedKnots": 28,
+      "observedAt": "2026-08-29T08:59:09.358295+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 6741,
       "atPort": false
     },
     {
@@ -161,13 +161,13 @@
       "mmsi": "247161800",
       "name": "COLUMBIA",
       "operatorId": "alilauro_operata_da_laser_capri",
-      "latitude": 40.75843,
-      "longitude": 13.94109,
-      "speedKnots": 12.4,
-      "observedAt": "2026-08-26T16:54:47.435485+00:00",
+      "latitude": 40.74358,
+      "longitude": 13.93958,
+      "speedKnots": 0,
+      "observedAt": "2026-08-29T08:59:09.358295+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 1660,
-      "atPort": false
+      "distanceMeters": 1080,
+      "atPort": true
     }
   ]
 }
