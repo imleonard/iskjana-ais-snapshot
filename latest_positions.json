@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-01T01:16:51.440837+00:00",
+  "generatedAt": "2026-09-01T06:17:57.675136+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.74394,
-      "longitude": 13.93982,
-      "speedKnots": 0,
-      "observedAt": "2026-08-30T21:38:34.446051+00:00",
+      "latitude": 40.75494,
+      "longitude": 13.95506,
+      "speedKnots": 11.3,
+      "observedAt": "2026-09-01T06:17:57.675136+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 1051,
+      "distanceMeters": 1027,
       "atPort": true
     },
     {
@@ -65,13 +65,13 @@
       "mmsi": "247270100",
       "name": "ANGELINA LAURO JET",
       "operatorId": "alilauro",
-      "latitude": 40.75072,
-      "longitude": 13.94545,
-      "speedKnots": 21.5,
-      "observedAt": "2026-08-31T10:04:46.620357+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 762,
-      "atPort": true
+      "latitude": 40.73499,
+      "longitude": 14.00977,
+      "speedKnots": 26.8,
+      "observedAt": "2026-09-01T06:17:57.675136+00:00",
+      "portId": "procida",
+      "distanceMeters": 3655,
+      "atPort": false
     },
     {
       "mmsi": "247047400",
@@ -137,13 +137,13 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.7567,
-      "longitude": 14.0746,
-      "speedKnots": 26.5,
-      "observedAt": "2026-08-31T10:04:46.620357+00:00",
-      "portId": "procida",
-      "distanceMeters": 4218,
-      "atPort": false
+      "latitude": 40.83744,
+      "longitude": 14.25517,
+      "speedKnots": 0,
+      "observedAt": "2026-09-01T06:17:57.675136+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 109,
+      "atPort": true
     },
     {
       "mmsi": "247050100",
