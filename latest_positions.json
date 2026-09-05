@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T15:06:59.557364+00:00",
+  "generatedAt": "2026-09-05T17:20:03.304209+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,13 +29,13 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.74955,
-      "longitude": 13.94605,
-      "speedKnots": 9,
-      "observedAt": "2026-09-05T15:06:59.557364+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 638,
-      "atPort": true
+      "latitude": 40.79925,
+      "longitude": 14.24798,
+      "speedKnots": 13.8,
+      "observedAt": "2026-09-05T17:20:03.304209+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 4397,
+      "atPort": false
     },
     {
       "mmsi": "247058700",
@@ -161,12 +161,12 @@
       "mmsi": "247161800",
       "name": "COLUMBIA",
       "operatorId": "alilauro_operata_da_laser_capri",
-      "latitude": 40.74359,
-      "longitude": 13.93956,
-      "speedKnots": 0,
-      "observedAt": "2026-09-04T17:46:33.225310+00:00",
+      "latitude": 40.74742,
+      "longitude": 13.94228,
+      "speedKnots": 8.8,
+      "observedAt": "2026-09-05T17:20:03.304209+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 1082,
+      "distanceMeters": 834,
       "atPort": true
     }
   ]
