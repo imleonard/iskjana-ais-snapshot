@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T20:37:29.658005+00:00",
+  "generatedAt": "2026-09-06T22:22:06.031556+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -8,7 +8,7 @@
       "latitude": 40.74405,
       "longitude": 13.93972,
       "speedKnots": 0,
-      "observedAt": "2026-09-06T20:37:29.658005+00:00",
+      "observedAt": "2026-09-06T22:22:06.031556+00:00",
       "portId": "ischia_porto",
       "distanceMeters": 1057,
       "atPort": true
