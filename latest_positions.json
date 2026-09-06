@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T05:13:18.437511+00:00",
+  "generatedAt": "2026-09-06T09:29:41.734534+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -89,24 +89,24 @@
       "mmsi": "247055800",
       "name": "GIUNONE JET",
       "operatorId": "alilauro",
-      "latitude": 40.62099,
-      "longitude": 14.14747,
-      "speedKnots": 29,
-      "observedAt": "2026-09-05T15:06:59.557364+00:00",
+      "latitude": 40.5863,
+      "longitude": 14.22602,
+      "speedKnots": 28,
+      "observedAt": "2026-09-06T09:29:41.734534+00:00",
       "portId": "procida",
-      "distanceMeters": 19060,
+      "distanceMeters": 26113,
       "atPort": false
     },
     {
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.8375,
-      "longitude": 14.25517,
+      "latitude": 40.74406,
+      "longitude": 13.93937,
       "speedKnots": 0,
-      "observedAt": "2026-09-05T15:06:59.557364+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 102,
+      "observedAt": "2026-09-06T09:29:41.734534+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 1086,
       "atPort": true
     },
     {
@@ -149,25 +149,25 @@
       "mmsi": "247050100",
       "name": "ACAPULCO JET",
       "operatorId": "alilauro",
-      "latitude": 40.73691,
-      "longitude": 13.98256,
-      "speedKnots": 30.1,
-      "observedAt": "2026-09-05T15:06:59.557364+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 2766,
+      "latitude": 40.83445,
+      "longitude": 14.27168,
+      "speedKnots": 9.4,
+      "observedAt": "2026-09-06T09:29:41.734534+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 1458,
       "atPort": false
     },
     {
       "mmsi": "247161800",
       "name": "COLUMBIA",
       "operatorId": "alilauro_operata_da_laser_capri",
-      "latitude": 40.74742,
-      "longitude": 13.94228,
-      "speedKnots": 8.8,
-      "observedAt": "2026-09-05T17:20:03.304209+00:00",
+      "latitude": 40.69585,
+      "longitude": 13.92896,
+      "speedKnots": 12.7,
+      "observedAt": "2026-09-06T09:29:41.734534+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 834,
-      "atPort": true
+      "distanceMeters": 5905,
+      "atPort": false
     }
   ]
 }
