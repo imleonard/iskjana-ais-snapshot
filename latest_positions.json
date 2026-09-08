@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-08T17:39:22.028392+00:00",
+  "generatedAt": "2026-09-08T20:20:08.523144+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
       "latitude": 40.74402,
-      "longitude": 13.93973,
+      "longitude": 13.93974,
       "speedKnots": 0,
-      "observedAt": "2026-09-08T17:39:22.028392+00:00",
+      "observedAt": "2026-09-08T20:20:08.523144+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 1057,
+      "distanceMeters": 1056,
       "atPort": true
     },
     {
@@ -161,13 +161,13 @@
       "mmsi": "247161800",
       "name": "COLUMBIA",
       "operatorId": "alilauro_operata_da_laser_capri",
-      "latitude": 40.69585,
-      "longitude": 13.92896,
-      "speedKnots": 12.7,
-      "observedAt": "2026-09-06T09:29:41.734534+00:00",
+      "latitude": 40.74358,
+      "longitude": 13.93957,
+      "speedKnots": 0,
+      "observedAt": "2026-09-08T20:20:08.523144+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 5905,
-      "atPort": false
+      "distanceMeters": 1081,
+      "atPort": true
     }
   ]
 }
