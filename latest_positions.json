@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-12T15:59:40.653716+00:00",
+  "generatedAt": "2026-09-12T18:18:59.030730+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.7451,
-      "longitude": 13.93896,
+      "latitude": 40.74531,
+      "longitude": 13.93959,
       "speedKnots": 0,
-      "observedAt": "2026-09-12T12:53:54.003588+00:00",
+      "observedAt": "2026-09-12T18:18:59.030730+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 1103,
+      "distanceMeters": 1048,
       "atPort": true
     },
     {
@@ -101,12 +101,12 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.83501,
-      "longitude": 14.26853,
-      "speedKnots": 10.1,
-      "observedAt": "2026-09-12T15:59:40.653716+00:00",
+      "latitude": 40.83769,
+      "longitude": 14.25541,
+      "speedKnots": 0,
+      "observedAt": "2026-09-12T18:18:59.030730+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 1187,
+      "distanceMeters": 84,
       "atPort": true
     },
     {
@@ -161,12 +161,12 @@
       "mmsi": "247161800",
       "name": "COLUMBIA",
       "operatorId": "alilauro_operata_da_laser_capri",
-      "latitude": 40.76962,
-      "longitude": 14.03101,
-      "speedKnots": 9.3,
-      "observedAt": "2026-09-10T14:02:53.253835+00:00",
-      "portId": "procida",
-      "distanceMeters": 629,
+      "latitude": 40.74359,
+      "longitude": 13.93958,
+      "speedKnots": 0,
+      "observedAt": "2026-09-12T18:18:59.030730+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 1080,
       "atPort": true
     }
   ]
