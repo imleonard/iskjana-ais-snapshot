@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T01:17:31.217975+00:00",
+  "generatedAt": "2026-09-18T06:02:36.618585+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -17,24 +17,24 @@
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.82433,
-      "longitude": 14.11267,
-      "speedKnots": 10.1,
-      "observedAt": "2026-09-17T13:23:22.715573+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 448,
-      "atPort": true
+      "latitude": 40.83375,
+      "longitude": 14.27545,
+      "speedKnots": 9.6,
+      "observedAt": "2026-09-18T06:02:36.618585+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 1784,
+      "atPort": false
     },
     {
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.84319,
-      "longitude": 14.26268,
+      "latitude": 40.82367,
+      "longitude": 14.11682,
       "speedKnots": 0,
-      "observedAt": "2026-09-17T23:06:50.387238+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 826,
+      "observedAt": "2026-09-18T06:02:36.618585+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 94,
       "atPort": true
     },
     {
@@ -53,12 +53,12 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.75103,
-      "longitude": 14.28193,
-      "speedKnots": 27.1,
-      "observedAt": "2026-09-17T17:42:24.426096+00:00",
+      "latitude": 40.82741,
+      "longitude": 14.22272,
+      "speedKnots": 0.1,
+      "observedAt": "2026-09-18T06:02:36.618585+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 9975,
+      "distanceMeters": 2991,
       "atPort": false
     },
     {
@@ -101,13 +101,13 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.74631,
-      "longitude": 13.94154,
-      "speedKnots": 9.9,
-      "observedAt": "2026-09-17T13:23:22.715573+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 882,
-      "atPort": true
+      "latitude": 40.77668,
+      "longitude": 14.12067,
+      "speedKnots": 27,
+      "observedAt": "2026-09-18T06:02:36.618585+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 5235,
+      "atPort": false
     },
     {
       "mmsi": "247070900",
