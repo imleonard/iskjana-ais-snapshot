@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:58:49.459808+00:00",
+  "generatedAt": "2026-09-18T18:18:53.001548+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,12 +29,12 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.74503,
-      "longitude": 13.93908,
-      "speedKnots": 0,
-      "observedAt": "2026-09-18T14:58:49.459808+00:00",
+      "latitude": 40.74867,
+      "longitude": 13.95223,
+      "speedKnots": 14.2,
+      "observedAt": "2026-09-18T18:18:53.001548+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 1094,
+      "distanceMeters": 298,
       "atPort": true
     },
     {
@@ -101,13 +101,13 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.77657,
-      "longitude": 14.11245,
-      "speedKnots": 28.6,
-      "observedAt": "2026-09-18T14:58:49.459808+00:00",
-      "portId": "pozzuoli",
-      "distanceMeters": 5262,
-      "atPort": false
+      "latitude": 40.83753,
+      "longitude": 14.25522,
+      "speedKnots": 0,
+      "observedAt": "2026-09-18T18:18:53.001548+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 99,
+      "atPort": true
     },
     {
       "mmsi": "247070900",
