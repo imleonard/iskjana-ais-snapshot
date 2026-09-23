@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T00:36:50.053099+00:00",
+  "generatedAt": "2026-09-23T05:10:48.338170+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -29,24 +29,24 @@
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.74503,
-      "longitude": 13.93918,
-      "speedKnots": 0,
-      "observedAt": "2026-09-23T00:36:50.053099+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 1085,
-      "atPort": true
+      "latitude": 40.7494,
+      "longitude": 14.10068,
+      "speedKnots": 13.1,
+      "observedAt": "2026-09-23T05:10:48.338170+00:00",
+      "portId": "procida",
+      "distanceMeters": 6549,
+      "atPort": false
     },
     {
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.75081,
-      "longitude": 13.9072,
+      "latitude": 40.7508,
+      "longitude": 13.90723,
       "speedKnots": 0,
-      "observedAt": "2026-09-22T15:37:58.537694+00:00",
+      "observedAt": "2026-09-23T05:10:48.338170+00:00",
       "portId": "casamicciola",
-      "distanceMeters": 237,
+      "distanceMeters": 234,
       "atPort": true
     },
     {
@@ -89,25 +89,25 @@
       "mmsi": "247055800",
       "name": "GIUNONE JET",
       "operatorId": "alilauro",
-      "latitude": 40.63957,
-      "longitude": 14.40017,
-      "speedKnots": 0,
-      "observedAt": "2026-09-22T11:26:39.779013+00:00",
+      "latitude": 40.64173,
+      "longitude": 14.39448,
+      "speedKnots": 29.6,
+      "observedAt": "2026-09-23T05:10:48.338170+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 25262,
+      "distanceMeters": 24822,
       "atPort": false
     },
     {
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.83722,
-      "longitude": 14.25535,
-      "speedKnots": 1.1,
-      "observedAt": "2026-09-21T18:46:19.395298+00:00",
+      "latitude": 40.79984,
+      "longitude": 14.25278,
+      "speedKnots": 26.2,
+      "observedAt": "2026-09-23T05:10:48.338170+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 134,
-      "atPort": true
+      "distanceMeters": 4294,
+      "atPort": false
     },
     {
       "mmsi": "247070900",
