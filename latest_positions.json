@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T00:58:37.808051+00:00",
+  "generatedAt": "2026-09-26T06:01:49.038040+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -53,13 +53,13 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.77416,
-      "longitude": 14.01991,
-      "speedKnots": 28.5,
-      "observedAt": "2026-09-25T10:30:18.730098+00:00",
-      "portId": "procida",
-      "distanceMeters": 1086,
-      "atPort": true
+      "latitude": 40.77858,
+      "longitude": 14.17752,
+      "speedKnots": 27.9,
+      "observedAt": "2026-09-26T06:01:49.038040+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 7095,
+      "atPort": false
     },
     {
       "mmsi": "247270100",
