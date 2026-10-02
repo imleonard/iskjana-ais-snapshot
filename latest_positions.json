@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:31:20.506805+00:00",
+  "generatedAt": "2026-10-02T14:06:16.495338+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -113,24 +113,24 @@
       "mmsi": "247070900",
       "name": "CITTA DI FORIO",
       "operatorId": "alilauro",
-      "latitude": 40.84252,
-      "longitude": 14.27044,
-      "speedKnots": 2.9,
-      "observedAt": "2026-10-02T07:31:20.506805+00:00",
+      "latitude": 40.83681,
+      "longitude": 14.25437,
+      "speedKnots": 0,
+      "observedAt": "2026-10-02T14:06:16.495338+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 1364,
-      "atPort": false
+      "distanceMeters": 191,
+      "atPort": true
     },
     {
       "mmsi": "247158900",
       "name": "ISCHIAMAR",
       "operatorId": "alilauro",
-      "latitude": 40.55587,
-      "longitude": 14.24066,
-      "speedKnots": 0.1,
-      "observedAt": "2026-09-29T15:09:04.195341+00:00",
+      "latitude": 40.55936,
+      "longitude": 14.23768,
+      "speedKnots": 0.3,
+      "observedAt": "2026-10-02T14:06:16.495338+00:00",
       "portId": "procida",
-      "distanceMeters": 29522,
+      "distanceMeters": 29061,
       "atPort": false
     },
     {
