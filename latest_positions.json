@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T01:54:23.166562+00:00",
+  "generatedAt": "2026-10-03T07:36:37.740394+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -17,12 +17,12 @@
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.75093,
-      "longitude": 13.90805,
+      "latitude": 40.75092,
+      "longitude": 13.908,
       "speedKnots": 0,
-      "observedAt": "2026-10-02T23:04:26.063876+00:00",
+      "observedAt": "2026-10-03T07:36:37.740394+00:00",
       "portId": "casamicciola",
-      "distanceMeters": 164,
+      "distanceMeters": 169,
       "atPort": true
     },
     {
@@ -102,11 +102,11 @@
       "name": "CELESTINA",
       "operatorId": "alilauro",
       "latitude": 40.8375,
-      "longitude": 14.25524,
+      "longitude": 14.25526,
       "speedKnots": 0,
-      "observedAt": "2026-10-02T07:31:20.506805+00:00",
+      "observedAt": "2026-10-03T07:36:37.740394+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 102,
+      "distanceMeters": 103,
       "atPort": true
     },
     {
