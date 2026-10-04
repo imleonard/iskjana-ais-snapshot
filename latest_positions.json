@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-04T20:32:19.961413+00:00",
+  "generatedAt": "2026-10-04T23:33:26.283440+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.7751,
-      "longitude": 14.02731,
-      "speedKnots": 11.9,
-      "observedAt": "2026-10-04T13:26:04.553446+00:00",
-      "portId": "procida",
-      "distanceMeters": 1074,
+      "latitude": 40.74403,
+      "longitude": 13.93974,
+      "speedKnots": 0,
+      "observedAt": "2026-10-04T23:33:26.283440+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 1056,
       "atPort": true
     },
     {
