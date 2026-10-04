@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T22:24:54.828245+00:00",
+  "generatedAt": "2026-10-04T01:50:24.642189+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -8,7 +8,7 @@
       "latitude": 40.74532,
       "longitude": 13.93956,
       "speedKnots": 0,
-      "observedAt": "2026-10-03T22:24:54.828245+00:00",
+      "observedAt": "2026-10-04T01:50:24.642189+00:00",
       "portId": "ischia_porto",
       "distanceMeters": 1051,
       "atPort": true
@@ -53,12 +53,12 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.55761,
-      "longitude": 14.24028,
+      "latitude": 40.5576,
+      "longitude": 14.24029,
       "speedKnots": 0,
-      "observedAt": "2026-10-03T22:24:54.828245+00:00",
+      "observedAt": "2026-10-04T01:50:24.642189+00:00",
       "portId": "procida",
-      "distanceMeters": 29349,
+      "distanceMeters": 29351,
       "atPort": false
     },
     {
