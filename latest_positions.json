@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T08:54:05.943162+00:00",
+  "generatedAt": "2026-10-07T16:01:53.995973+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -41,13 +41,13 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.75579,
-      "longitude": 13.93038,
-      "speedKnots": 26.8,
-      "observedAt": "2026-10-02T07:31:20.506805+00:00",
-      "portId": "casamicciola",
-      "distanceMeters": 1797,
-      "atPort": false
+      "latitude": 40.76603,
+      "longitude": 14.02751,
+      "speedKnots": 0.1,
+      "observedAt": "2026-10-07T16:01:53.995973+00:00",
+      "portId": "procida",
+      "distanceMeters": 148,
+      "atPort": true
     },
     {
       "mmsi": "247058800",
@@ -65,13 +65,13 @@
       "mmsi": "247270100",
       "name": "ANGELINA LAURO JET",
       "operatorId": "alilauro",
-      "latitude": 40.744,
-      "longitude": 13.93927,
-      "speedKnots": 0,
-      "observedAt": "2026-10-06T06:38:48.843776+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 1095,
-      "atPort": true
+      "latitude": 40.77755,
+      "longitude": 14.04678,
+      "speedKnots": 24.5,
+      "observedAt": "2026-10-07T16:01:53.995973+00:00",
+      "portId": "procida",
+      "distanceMeters": 2211,
+      "atPort": false
     },
     {
       "mmsi": "247047400",
