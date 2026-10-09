@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T06:33:11.286595+00:00",
+  "generatedAt": "2026-10-09T13:42:53.991369+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -17,13 +17,13 @@
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.75095,
-      "longitude": 13.90792,
-      "speedKnots": 0,
-      "observedAt": "2026-10-08T14:42:23.281966+00:00",
-      "portId": "casamicciola",
-      "distanceMeters": 175,
-      "atPort": true
+      "latitude": 40.7769,
+      "longitude": 14.02743,
+      "speedKnots": 12.6,
+      "observedAt": "2026-10-09T13:42:53.991369+00:00",
+      "portId": "procida",
+      "distanceMeters": 1274,
+      "atPort": false
     },
     {
       "mmsi": "247375500",
@@ -41,12 +41,12 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.78452,
-      "longitude": 14.19474,
-      "speedKnots": 23.9,
-      "observedAt": "2026-10-08T14:42:23.281966+00:00",
+      "latitude": 40.77663,
+      "longitude": 14.11091,
+      "speedKnots": 18.8,
+      "observedAt": "2026-10-09T13:42:53.991369+00:00",
       "portId": "pozzuoli",
-      "distanceMeters": 7796,
+      "distanceMeters": 5268,
       "atPort": false
     },
     {
