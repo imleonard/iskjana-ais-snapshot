@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T08:47:08.119993+00:00",
+  "generatedAt": "2026-10-10T14:49:14.514557+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -17,24 +17,24 @@
       "mmsi": "247213200",
       "name": "MARIA BUONO",
       "operatorId": "medmar",
-      "latitude": 40.77763,
-      "longitude": 14.03553,
-      "speedKnots": 11.4,
-      "observedAt": "2026-10-10T08:47:08.119993+00:00",
-      "portId": "procida",
-      "distanceMeters": 1574,
-      "atPort": false
+      "latitude": 40.75095,
+      "longitude": 13.90795,
+      "speedKnots": 0,
+      "observedAt": "2026-10-10T14:49:14.514557+00:00",
+      "portId": "casamicciola",
+      "distanceMeters": 173,
+      "atPort": true
     },
     {
       "mmsi": "247375500",
       "name": "MEDMAR GIULIA",
       "operatorId": "medmar",
-      "latitude": 40.84248,
-      "longitude": 14.26138,
+      "latitude": 40.74501,
+      "longitude": 13.93908,
       "speedKnots": 0,
-      "observedAt": "2026-10-09T06:33:11.286595+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 691,
+      "observedAt": "2026-10-10T14:49:14.514557+00:00",
+      "portId": "ischia_porto",
+      "distanceMeters": 1094,
       "atPort": true
     },
     {
