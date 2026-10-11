@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-11T14:06:17.405314+00:00",
+  "generatedAt": "2026-10-11T18:51:29.343869+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.744,
-      "longitude": 13.9398,
-      "speedKnots": 0,
-      "observedAt": "2026-10-11T01:09:22.261512+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 1052,
-      "atPort": true
+      "latitude": 40.7806,
+      "longitude": 14.1004,
+      "speedKnots": 11.6,
+      "observedAt": "2026-10-11T18:51:29.343869+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 5016,
+      "atPort": false
     },
     {
       "mmsi": "247213200",
