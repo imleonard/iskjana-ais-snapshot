@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T08:07:13.434254+00:00",
+  "generatedAt": "2026-10-12T17:51:48.364962+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -89,12 +89,12 @@
       "mmsi": "247055800",
       "name": "GIUNONE JET",
       "operatorId": "alilauro",
-      "latitude": 40.58983,
-      "longitude": 14.28125,
-      "speedKnots": 30.2,
-      "observedAt": "2026-10-11T07:12:22.097079+00:00",
+      "latitude": 40.63073,
+      "longitude": 14.37733,
+      "speedKnots": 0.1,
+      "observedAt": "2026-10-12T17:51:48.364962+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 27729,
+      "distanceMeters": 25284,
       "atPort": false
     },
     {
@@ -137,12 +137,12 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.76077,
-      "longitude": 14.10117,
-      "speedKnots": 24.7,
-      "observedAt": "2026-10-12T08:07:13.434254+00:00",
-      "portId": "procida",
-      "distanceMeters": 6362,
+      "latitude": 40.8319,
+      "longitude": 14.27689,
+      "speedKnots": 26.6,
+      "observedAt": "2026-10-12T17:51:48.364962+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 1967,
       "atPort": false
     },
     {
