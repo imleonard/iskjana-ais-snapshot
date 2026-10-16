@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-16T07:33:56.536967+00:00",
+  "generatedAt": "2026-10-16T12:43:23.505478+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.76155,
-      "longitude": 13.97283,
-      "speedKnots": 11.5,
-      "observedAt": "2026-10-16T02:47:50.525858+00:00",
+      "latitude": 40.74509,
+      "longitude": 13.93897,
+      "speedKnots": 0,
+      "observedAt": "2026-10-16T12:43:23.505478+00:00",
       "portId": "ischia_porto",
-      "distanceMeters": 2463,
-      "atPort": false
+      "distanceMeters": 1102,
+      "atPort": true
     },
     {
       "mmsi": "247213200",
@@ -41,25 +41,25 @@
       "mmsi": "247058700",
       "name": "SNAV ALCIONE",
       "operatorId": "snav",
-      "latitude": 40.8384,
-      "longitude": 14.29006,
-      "speedKnots": 0,
-      "observedAt": "2026-10-16T07:33:56.536967+00:00",
-      "portId": "napoli_molo_beverello",
-      "distanceMeters": 2936,
-      "atPort": false
+      "latitude": 40.75081,
+      "longitude": 13.9072,
+      "speedKnots": 0.1,
+      "observedAt": "2026-10-16T12:43:23.505478+00:00",
+      "portId": "casamicciola",
+      "distanceMeters": 237,
+      "atPort": true
     },
     {
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.75107,
-      "longitude": 13.90898,
-      "speedKnots": 7.6,
-      "observedAt": "2026-10-16T07:33:56.536967+00:00",
-      "portId": "casamicciola",
-      "distanceMeters": 86,
-      "atPort": true
+      "latitude": 40.78679,
+      "longitude": 14.2011,
+      "speedKnots": 28.6,
+      "observedAt": "2026-10-16T12:43:23.505478+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 7325,
+      "atPort": false
     },
     {
       "mmsi": "247270100",
@@ -101,13 +101,13 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.83563,
-      "longitude": 14.26383,
-      "speedKnots": 9.3,
-      "observedAt": "2026-10-15T18:24:31.661857+00:00",
+      "latitude": 40.83415,
+      "longitude": 14.27148,
+      "speedKnots": 8.7,
+      "observedAt": "2026-10-16T12:43:23.505478+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 793,
-      "atPort": true
+      "distanceMeters": 1453,
+      "atPort": false
     },
     {
       "mmsi": "247070900",
@@ -149,12 +149,12 @@
       "mmsi": "247050100",
       "name": "ACAPULCO JET",
       "operatorId": "alilauro",
-      "latitude": 40.83784,
-      "longitude": 14.2553,
-      "speedKnots": 0,
-      "observedAt": "2026-10-16T07:33:56.536967+00:00",
+      "latitude": 40.83684,
+      "longitude": 14.25445,
+      "speedKnots": 0.1,
+      "observedAt": "2026-10-16T12:43:23.505478+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 65,
+      "distanceMeters": 185,
       "atPort": true
     },
     {
