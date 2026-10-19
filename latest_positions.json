@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T01:46:23.920036+00:00",
+  "generatedAt": "2026-10-19T06:58:29.057375+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -101,24 +101,24 @@
       "mmsi": "247061200",
       "name": "CELESTINA",
       "operatorId": "alilauro",
-      "latitude": 40.76437,
-      "longitude": 13.88448,
-      "speedKnots": 29.6,
-      "observedAt": "2026-10-17T16:21:06.034966+00:00",
-      "portId": "casamicciola",
-      "distanceMeters": 2614,
+      "latitude": 40.84295,
+      "longitude": 14.27007,
+      "speedKnots": 0,
+      "observedAt": "2026-10-19T06:58:29.057375+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 1352,
       "atPort": false
     },
     {
       "mmsi": "247070900",
       "name": "CITTA DI FORIO",
       "operatorId": "alilauro",
-      "latitude": 40.84296,
-      "longitude": 14.2701,
-      "speedKnots": 0,
-      "observedAt": "2026-10-17T09:17:27.381840+00:00",
+      "latitude": 40.83472,
+      "longitude": 14.27017,
+      "speedKnots": 8.9,
+      "observedAt": "2026-10-19T06:58:29.057375+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 1355,
+      "distanceMeters": 1328,
       "atPort": false
     },
     {
