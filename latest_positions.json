@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:04:18.528439+00:00",
+  "generatedAt": "2026-11-03T07:51:27.094176+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -77,13 +77,13 @@
       "mmsi": "247047400",
       "name": "NETTUNO JET",
       "operatorId": "alilauro",
-      "latitude": 40.76851,
-      "longitude": 14.31912,
-      "speedKnots": 30.1,
-      "observedAt": "2026-11-01T12:18:37.552820+00:00",
+      "latitude": 40.83519,
+      "longitude": 14.26843,
+      "speedKnots": 9.9,
+      "observedAt": "2026-11-03T07:51:27.094176+00:00",
       "portId": "napoli_molo_beverello",
-      "distanceMeters": 9456,
-      "atPort": false
+      "distanceMeters": 1173,
+      "atPort": true
     },
     {
       "mmsi": "247055800",
