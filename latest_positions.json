@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:29:35.191233+00:00",
+  "generatedAt": "2026-11-04T07:57:33.148945+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -53,13 +53,13 @@
       "mmsi": "247058800",
       "name": "SNAV ALTAIR",
       "operatorId": "snav",
-      "latitude": 40.5576,
-      "longitude": 14.24029,
-      "speedKnots": 0,
-      "observedAt": "2026-11-01T12:18:37.552820+00:00",
-      "portId": "procida",
-      "distanceMeters": 29351,
-      "atPort": false
+      "latitude": 40.83666,
+      "longitude": 14.25845,
+      "speedKnots": 2.4,
+      "observedAt": "2026-11-04T07:57:33.148945+00:00",
+      "portId": "napoli_molo_beverello",
+      "distanceMeters": 339,
+      "atPort": true
     },
     {
       "mmsi": "247270100",
