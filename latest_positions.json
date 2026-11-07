@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T02:13:40.272804+00:00",
+  "generatedAt": "2026-11-07T08:51:33.672137+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -137,13 +137,13 @@
       "mmsi": "247055900",
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
-      "latitude": 40.74782,
-      "longitude": 13.95868,
-      "speedKnots": 28,
-      "observedAt": "2026-11-06T17:40:01.537446+00:00",
-      "portId": "ischia_porto",
-      "distanceMeters": 598,
-      "atPort": true
+      "latitude": 40.77428,
+      "longitude": 14.05998,
+      "speedKnots": 27.9,
+      "observedAt": "2026-11-07T08:51:33.672137+00:00",
+      "portId": "procida",
+      "distanceMeters": 3032,
+      "atPort": false
     },
     {
       "mmsi": "247050100",
