@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-10T20:26:32.733332+00:00",
+  "generatedAt": "2026-11-11T00:49:10.154604+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
       "name": "BENITO BUONO",
       "operatorId": "medmar",
-      "latitude": 40.75097,
-      "longitude": 13.90797,
+      "latitude": 40.75092,
+      "longitude": 13.90795,
       "speedKnots": 0,
-      "observedAt": "2026-11-10T12:58:45.410280+00:00",
+      "observedAt": "2026-11-11T00:49:10.154604+00:00",
       "portId": "casamicciola",
-      "distanceMeters": 171,
+      "distanceMeters": 173,
       "atPort": true
     },
     {
