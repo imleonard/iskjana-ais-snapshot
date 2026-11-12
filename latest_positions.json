@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T03:01:59.389930+00:00",
+  "generatedAt": "2026-11-12T10:55:43.698514+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -113,10 +113,10 @@
       "mmsi": "247070900",
       "name": "CITTA DI FORIO",
       "operatorId": "alilauro",
-      "latitude": 40.84119,
-      "longitude": 14.26998,
+      "latitude": 40.84121,
+      "longitude": 14.26997,
       "speedKnots": 0,
-      "observedAt": "2026-11-10T12:58:45.410280+00:00",
+      "observedAt": "2026-11-12T10:55:43.698514+00:00",
       "portId": "napoli_molo_beverello",
       "distanceMeters": 1284,
       "atPort": false
