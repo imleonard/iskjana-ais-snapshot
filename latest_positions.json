@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:22:19.484092+00:00",
+  "generatedAt": "2026-11-21T16:54:32.585822+00:00",
   "vessels": [
     {
       "mmsi": "247007400",
@@ -77,12 +77,12 @@
       "mmsi": "247047400",
       "name": "NETTUNO JET",
       "operatorId": "alilauro",
-      "latitude": 40.73982,
-      "longitude": 14.02147,
-      "speedKnots": 31,
-      "observedAt": "2026-11-21T09:22:19.484092+00:00",
-      "portId": "procida",
-      "distanceMeters": 2880,
+      "latitude": 40.78589,
+      "longitude": 14.10577,
+      "speedKnots": 28.4,
+      "observedAt": "2026-11-21T16:54:32.585822+00:00",
+      "portId": "pozzuoli",
+      "distanceMeters": 4328,
       "atPort": false
     },
     {
@@ -138,9 +138,9 @@
       "name": "ROSARIA LAURO",
       "operatorId": "alilauro",
       "latitude": 40.8375,
-      "longitude": 14.25517,
+      "longitude": 14.25523,
       "speedKnots": 0,
-      "observedAt": "2026-11-18T09:17:19.208341+00:00",
+      "observedAt": "2026-11-21T16:54:32.585822+00:00",
       "portId": "napoli_molo_beverello",
       "distanceMeters": 102,
       "atPort": true
